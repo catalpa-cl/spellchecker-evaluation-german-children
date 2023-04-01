@@ -1,0 +1,18969 @@
+Hunspell 1.7.0
++ bellen
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+*
+
+*
+
+*
+
++ fällen
+
++ wollen
+
++ lecken
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Nachhause 4 0: Nach hause, Nach-hause, Nachschaue, Nachschau
+
+*
+
+*
+
+*
+
++ wollen
+
++ fällen
+
+*
+
++ willst
+
+*
+
+*
+
+*
+
++ all
+
+*
+
+*
+
+& Weitergegangen 8 0: Weitergengagen, Weitergegengen, Weiter gegangen, Weiter-gegangen, Weitergegebenen, Weitergetragenen, Weitergetragen, Weitergegeben
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ hatte
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ gehen
+
++ stolpern
+
+*
+
++ fällen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ teilen
+
++ möchten
+
++ passen
+
+*
+
++ möchten
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+*
+
++ fällen
+
++ Weg
+
+*
+
++ weinen
+
+*
+
++ kriegen
+
+*
+
+*
+
++ schlecken
+
++ all
+
+*
+
+*
+
+& Wehgetan 4 0: Weh getan, Weh-getan, Weggetan, Angeweht
+
+*
+
+& Riech 5 0: Reich, Siech, Rieche, Riecht, Riecher
+
+*
+
++ fallen
+
+*
+
++ einen
+
+& Nachhause 4 0: Nach hause, Nach-hause, Nachschaue, Nachschau
+
++ lecken
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ isst
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+& Stolper 8 0: Stolpe, Stolper-, Stopper, Stolpre, Stolpere, Stolpern, Stolpert, Stolzer
+
++ suchen
+
+*
+
++ geben
+
+*
+
+*
+
++ wen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ lecken
+
+*
+
+*
+
+*
+
+*
+
++ weit
+
+-
+
++ gehen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ passieren
+
++ stolpern
+
++ verlieren
+
+*
+
+*
+
+*
+
+*
+
++ stolpern
+
++ teilen
+
+*
+
+*
+
+-
+
+-
+
++ sagen
+
+*
+
++ tun
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ ein
+
++ Falle
+
+*
+
+*
+
++ stolpern
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ teilen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ jede
+
++ weinen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ suchen
+
+*
+
+*
+
+*
+
+*
+
++ willst
+
+*
+
++ schlecken
+
++ stolpern
+
+*
+
+*
+
+*
+
+*
+
++ freuen
+
+*
+
+*
+
+*
+
+*
+
++ sammeln
+
++ ihr
+
++ fällen
+
++ trösten
+
++ einen
+
+-
+
+*
+
+-
+
++ schlecken
+
++ stolpern
+
+*
+
+*
+
+& Zermatscht 1 0: Schmatze
+
++ klettern
+
++ tropfen
+
++ merken
+
+*
+
++ kläffen
+
+*
+
+*
+
++ Tropf
+
+-
+
++ darfst
+
++ den
+
+& Erdbeer 7 0: Erdbeer-, Erdeber, Erdbeet, Erdbeere, Verderber, Beerdige, Beere
+
+*
+
+*
+
++ nicht
+
+& Sies 15 0: Siels, Siegs, Siebs, Sees, Siel, Lies, Dies, Sieg, Sims, Mies, Sieb, Fies, Wies, Ries, Kies
+
+*
+
++ sagen
+
+*
+
++ stehen
+
++ danken
+
+*
+
+*
+
++ teilen
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ freuen
+
+*
+
++ trösten
+
++ stehen
+
++ bedanken
+
+*
+
+& Wars 14 0: Warts, Ware, Wart, Wams, Lars, Mars, Bars, Ward, War, Was, Warst, Warm, Warb, Warf
+
+*
+
+& Schups 4 0: Schuss, Schuhs, Schubs, Schuppe
+
++ fällen
+
+*
+
+*
+
+*
+
+*
+
+& Runterfallen 7 0: -unterfallen, Runter fallen, Runter-fallen, Herunterfallen, Herunterfalle, Hinunterfallen, Heruntergefallen
+
+*
+
+*
+
++ bellen
+
++ schlucken
+
+*
+
++ stolpern
+
++ rennen
+
+*
+
+*
+
++ weinen
+
+*
+
++ wollen
+
+*
+
++ kriegen
+
+*
+
++ Fuß
+
++ Ware
+
+*
+
++ können
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ all
+
+-
+
+*
+
++ fällen
+
++ sein
+
++ gucken
+
++ lecken
+
+*
+
+*
+
++ abkriegen
+
+*
+
+*
+
+*
+
++ bekommen
+
+*
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+& Hats 11 0: Halts, Hass, Hais, Hits, Hans, Hals, Haus, Huts, Rats, Hast, Hat
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ wen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kriegen
+
+& Bällchen 1 0: Bänkchen
+
+-
+
++ lassen
+
+*
+
+*
+
+*
+
+*
+
++ hohe
+
+*
+
+*
+
+*
+
++ hatte
+
++ heißen
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ waren
+
+-
+
+*
+
++ Freund
+
++ schön
+
+*
+
+*
+
+*
+
++ einen
+
+-
+
+*
+
+*
+
+*
+
++ kriegen
+
++ kein
+
+*
+
++ nicht
+
+*
+
++ merken
+
+& Runterfällt 6 0: Runter fällt, Runter-fällt, Herunterfällt, Hinunterfällt, Herunterfallt, Unterhält
+
+& Ups 3 0: Uns, Ums, Coups
+
++ schmilzt
+
+*
+
+*
+
++ schlecken
+
++ stolpern
+
+*
+
++ teilen
+
+-
+
++ spät
+
+-
+
++ Wolle
+
++ stehen
+
+-
+
+*
+
+*
+
++ schlabbern
+
+*
+
+*
+
++ wirren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ weinen
+
++ teilen
+
+*
+
++ Ware
+
+-
+
+*
+
++ laufen
+
+*
+
++ schnappen
+
++ lecken
+
+*
+
++ trösten
+
++ freuen
+
+*
+
+*
+
+*
+
++ lecken
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
++ trösten
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ lecken
+
+*
+
++ weinen
+
+*
+
+*
+
+*
+
+*
+
+-
+
+-
+
+*
+
+*
+
+*
+
++ hausen
+
+-
+
++ Tropf
+
+*
+
+*
+
++ teilen
+
++ bedanken
+
+*
+
+*
+
+*
+
+& Doll 10 0: Dill, Dolly, Dell, Soll, Roll, Toll, Voll, Moll, Zoll, Dollar
+
+*
+
+*
+
+*
+
+*
+
++ wollen
+
+*
+
++ fällen
+
+*
+
++ willst
+
++ da
+
+*
+
++ fragen
+
+*
+
+*
+
++ liegen
+
++ schlecken
+
+*
+
++ jede
+
+*
+
++ willst
+
+*
+
+*
+
++ fällen
+
++ trösten
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+-
+
+*
+
+*
+
++ lecken
+
++ ging
+
++ Falle
+
++ rutschen
+
+-
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+*
+
++ möchten
+
+*
+
++ rennen
+
+*
+
+& Abzulecken 6 0: Abzulenken, Abzudecken, Abzustecken, Abzublocken, Abzulehnen, Abzuzocken
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Tropf
+
++ freuen
+
++ essen
+
++ kommen
+
+& Geb 11 0: Gen, Gel, Web, Gebe, Gebt, Gelb, Geb., Gib, Gab, Geh, Gäb
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ ihr
+
++ Tropf
+
++ stellen
+
+*
+
++ essen
+
+*
+
+& Schokokugel 1 0: Schokolade
+
+*
+
++ stolpern
+
++ etwa
+
+*
+
+*
+
++ fällen
+
+*
+
+& Geling 9 0: Reling, Gelinge, Gelingt, Gelang, Gering, Gelind, Klingel, Pingelig, Helling
+
++ weinen
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ wollen
+
+*
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Erdbeer 7 0: Erdbeer-, Erdeber, Erdbeet, Erdbeere, Verderber, Beerdige, Beere
+
+*
+
+*
+
++ sonnig
+
+-
+
+& Erdbeer 7 0: Erdbeer-, Erdeber, Erdbeet, Erdbeere, Verderber, Beerdige, Beere
+
+& Blaubeer 8 0: Blaubeer-, Blaueber, Blaubeet, Blaubeere, Blaugelber, Urlauber, Belaubter, Erlaube
+
+*
+
+*
+
+& Schwupp 1 0: Schuppe
+
+& Aua 8 0: Au, Aura, Aula, Aue, Ada, Aug, Aus, Auf
+
+*
+
+*
+
++ kommen
+
++ stolpern
+
++ fliegen
+
+*
+
++ stolpern
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ schlecken
+
+*
+
+*
+
++ ganz
+
+*
+
+*
+
++ ihr
+
+*
+
+*
+
+*
+
+*
+
+-
+
+-
+
+*
+
+*
+
+-
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+-
+
+& Vanilleeis 1 0: Vanille
+
+*
+
+*
+
++ verabreden
+
+*
+
++ bezahlt
+
++ suchen
+
+& Abzubekommen 4 0: Abzukommen, Abbekommen, Zusammenbekommen, Zusammenbekomme
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ sprang
+
+*
+
++ kläffen
+
+*
+
++ Krieg
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kommen
+
+*
+
+*
+
+*
+
++ Ware
+
+*
+
++ stolpern
+
+*
+
++ da
+
++ passieren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ stolpern
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ stolpern
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ weit
+
++ schlecken
+
++ schlecken
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kommen
+
++ möchten
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ stolpern
+
+*
+
+*
+
+*
+
++ geben
+
+*
+
++ ein
+
+-
+
++ tropfen
+
++ Tropf
+
+*
+
+*
+
+*
+
++ freuen
+
+*
+
+*
+
+*
+
+*
+
++ trösten
+
+-
+
+*
+
++ heißen
+
++ kleckern
+
++ weinen
+
++ hältst
+
+*
+
+*
+
++ tropfen
+
++ fällen
+
+*
+
+-
+
+*
+
++ hausen
+
+*
+
+*
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
+*
+
++ fällen
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
++ bös
+
+*
+
+*
+
++ stolpern
+
++ stehen
+
+*
+
+*
+
+*
+
++ tropfen
+
++ Tropf
+
+*
+
++ stolpern
+
++ trösten
+
+*
+
++ weit
+
++ gibt
+
+*
+
+*
+
+*
+
+*
+
++ ihr
+
+-
+
+*
+
+*
+
+*
+
++ weit
+
++ ihn
+
+*
+
+*
+
+*
+
+*
+
++ Falle
+
+-
+
+*
+
+*
+
++ stolpern
+
++ essen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ hieß
+
++ verletzen
+
++ fällen
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ lecken
+
+*
+
+*
+
+*
+
+*
+
++ willst
+
++ nehmen
+
++ sagen
+
+*
+
+*
+
++ gibt
+
+-
+
+*
+
+*
+
+& Angekuckt 5 0: Angeguckt, Angespuckt, Angeklickt, Angepackt, Anguckt
+
++ wollen
+
+*
+
+*
+
+& Hats 11 0: Halts, Hass, Hais, Hits, Hans, Hals, Haus, Huts, Rats, Hast, Hat
+
+*
+
+*
+
+& Hingerannt 7 0: Eingerannt, Hin gerannt, Hin-gerannt, Hingeraten, Angerannt, Hineingerate, Hintergangen
+
+*
+
+*
+
++ sein
+
+*
+
+*
+
++ holen
+
++ groß
+
+-
+
++ stellen
+
++ stolpern
+
++ sagen
+
+*
+
++ kriegen
+
++ sein
+
++ weit
+
++ spazieren
+
++ wollen
+
+-
+
+*
+
++ tropfen
+
+*
+
+-
+
++ bellen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ fällen
+
+*
+
+*
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+*
+
+*
+
+& Nachhause 4 0: Nach hause, Nach-hause, Nachschaue, Nachschau
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ verabreden
+
+*
+
+*
+
++ Falle
+
++ gucken
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ essen
+
++ Tropf
+
+*
+
+*
+
++ fragen
+
++ weinen
+
+*
+
+-
+
++ fällen
+
+*
+
++ ihr
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ waren
+
+*
+
+-
+
++ stolpern
+
+*
+
++ teilen
+
++ Hund
+
++ stellen
+
+& Hotdogstand 3 0: Hotdog stand, Hotdog-stand, Niedrigstand
+
++ Hotdog
+
+*
+
++ verletzen
+
+*
+
+*
+
+*
+
+*
+
++ trösten
+
+*
+
+*
+
+& Lolli 1 0: Rolli
+
+*
+
+*
+
++ warten
+
++ telefonieren
+
++ telefonieren
+
++ sagen
+
+*
+
+*
+
++ hängen
+
+*
+
+*
+
+*
+
++ bringen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ waren
+
+*
+
++ verschwunden
+
+*
+
+*
+
+*
+
+*
+
++ setzen
+
+*
+
++ warten
+
+*
+
++ anrufen
+
++ wen
+
+*
+
+*
+
+*
+
+& Lolli 1 0: Rolli
+
+*
+
++ verschwunden
+
+*
+
++ hängen
+
+*
+
+*
+
+*
+
+*
+
++ waren
+
+*
+
+*
+
+*
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ kleben
+
+*
+
+*
+
+-
+
++ finden
+
++ tränen
+
+*
+
+*
+
++ verschwunden
+
+*
+
+*
+
+*
+
+*
+
++ spät
+
++ glücklich
+
+& Lolli 1 0: Rolli
+
++ Poster
+
+*
+
+*
+
+*
+
+*
+
++ umarmen
+
++ hängen
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Gelächelt 5 0: Belächelt, Angelächelt, Gelächter, Lächelt, Getätschelt
+
+*
+
+& Lollipop 1 0: Pollinie
+
+*
+
+*
+
++ hängen
+
+*
+
++ warten
+
++ rufen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ umarmen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ umarmen
+
++ warten
+
+*
+
++ hat
+
+*
+
+*
+
++ kläffen
+
++ öffnen
+
++ umarmen
+
+*
+
+*
+
+-
+
+*
+
++ klingeln
+
+*
+
+*
+
+*
+
+& Getränt 4 0: Getränk, Getränkt, Getrennt, Tränt
+
+*
+
++ Riese
+
+*
+
+*
+
++ Frau
+
+*
+
+*
+
+& Geknuddelt 1 0: Gebuddelt
+
+*
+
+*
+
+*
+
+*
+
++ kommen
+
+*
+
+*
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
+*
+
+-
+
+*
+
+& Nix 6 0: Nixe, Nil, Fix, Mix, Unix, Nie
+
+*
+
++ hängen
+
+*
+
+*
+
++ klingeln
+
+*
+
+*
+
+*
+
++ umarmen
+
++ Ware
+
+*
+
+*
+
++ missen
+
++ werden
+
+*
+
+*
+
++ kein
+
+*
+
+*
+
+*
+
++ weinen
+
++ sagen
+
+*
+
++ drücken
+
+& Rausgestellt 7 0: Ausgestellt, Raus gestellt, Raus-gestellt, Vorausbestellt, Ausgestrahlt, Aufgestellt, Herausstellt
+
+*
+
+*
+
+*
+
+*
+
+& Lolli 1 0: Rolli
+
+*
+
+*
+
++ überlegen
+
++ können
+
++ bringen
+
+*
+
++ missen
+
++ ihr
+
+-
+
+*
+
+*
+
++ bringen
+
++ drücken
+
+*
+
+*
+
+& Lolli 1 0: Rolli
+
+*
+
+*
+
++ kleben
+
++ Plakat
+
++ kam
+
+*
+
+*
+
++ sitzen
+
+*
+
++ Fall
+
+-
+
+*
+
++ hüpfen
+
+*
+
++ verschwunden
+
+*
+
+*
+
+*
+
+*
+
++ Freud
+
+& Lolli 1 0: Rolli
+
++ klingeln
+
+*
+
++ rennen
+
+*
+
+*
+
++ hängen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ schenken
+
+*
+
+*
+
++ verschwunden
+
+*
+
+*
+
++ ihr
+
++ trösten
+
+*
+
+*
+
+*
+
+*
+
++ schellen
+
+*
+
++ umarmen
+
+*
+
++ klingeln
+
+*
+
++ Poster
+
+*
+
++ nächste
+
++ waren
+
+*
+
+*
+
++ kein
+
+*
+
+*
+
+*
+
++ Plakat
+
+*
+
+*
+
+*
+
+*
+
++ sagen
+
++ erleichtern
+
+& Lolli 1 0: Rolli
+
+*
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+*
+
+-
+
+-
+
+*
+
++ Sekunde
+
++ spät
+
++ Freudenträne
+
++ umarmen
+
+*
+
+-
+
++ hängen
+
++ stehen
+
+-
+
++ freuen
+
++ klingeln
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+*
+
+*
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ Plakat
+
+*
+
++ Wart
+
+*
+
++ gucken
+
+*
+
+*
+
+*
+
++ zweifeln
+
+*
+
++ fällen
+
+*
+
+*
+
+*
+
++ klopfen
+
++ Pfote
+
+*
+
++ ihr
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+& Sien 14 0: Sein, Sieb, Seen, Sinn, Siel, Sieg, Sven, Wien, Sie, Seien, Spien, Asien, Sieh, Säen
+
+*
+
+*
+
+-
+
+*
+
++ Plakat
+
+*
+
+-
+
+*
+
+*
+
++ Anruf
+
+*
+
++ warten
+
++ warten
+
+*
+
++ rufen
+
+*
+
+*
+
+*
+
+*
+
++ kleben
+
+*
+
+*
+
++ sagen
+
+*
+
+*
+
++ sagen
+
++ schmecken
+
+*
+
++ hängen
+
++ erst
+
++ tropfen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ rücken
+
+& Klingeling 5 0: Klingelring, Klingelding, Klingeln, Klingel, Klingen
+
++ klingen
+
+*
+
+*
+
+*
+
++ spät
+
+*
+
++ ihr
+
+*
+
+*
+
+*
+
++ anrufen
+
+*
+
++ klingeln
+
+*
+
+& Bins 14 0: Bons, Ins, Binse, Beins, Bens, Eins, Biss, Bias, Bits, Pins, Zins, Bind, Bin, Bis
+
+*
+
++ spät
+
+& Dingdong 1 0: Davonging
+
+*
+
+-
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ verloren
+
+*
+
++ warten
+
+*
+
++ denken
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ jede
+
+*
+
++ klingeln
+
+*
+
+*
+
++ nett
+
+*
+
+*
+
+*
+
++ hängen
+
++ Plakat
+
++ gehen
+
+*
+
++ umarmen
+
++ verloren
+
+*
+
+*
+
++ schwand
+
++ Bild
+
+*
+
+*
+
+*
+
++ frisst
+
+*
+
+& Weggerannt 6 0: Weg gerannt, Weg-gerannt, Weggetragen, Angerannt, Weggetan, Gerannt
+
++ warten
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Lolli 1 0: Rolli
+
+*
+
+*
+
++ hängen
+
++ warten
+
+*
+
+*
+
++ Freud
+
++ klingeln
+
+*
+
++ Riese
+
+& Lolli 1 0: Rolli
+
++ klemmen
+
++ Plakat
+
+*
+
++ Plakat
+
++ waren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ gelb
+
+*
+
+*
+
+*
+
++ kommen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ umarmen
+
+*
+
++ ihr
+
+*
+
++ lassen
+
+*
+
++ lachen
+
++ klingeln
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ freuen
+
+*
+
++ freuen
+
++ kriegen
+
+*
+
+*
+
++ Sorge
+
++ fragen
+
+*
+
+*
+
++ gucken
+
+*
+
++ Überraschen
+
+& Umarm 5 0: Umarme, Umarmt, Um arm, Um-arm, Umarmen
+
+-
+
++ telefonieren
+
++ umarmen
+
++ Weg
+
+*
+
+& Lolli 1 0: Rolli
+
++ nimmt
+
+*
+
++ hängen
+
+*
+
+*
+
+& Bins 14 0: Bons, Ins, Binse, Beins, Bens, Eins, Biss, Bias, Bits, Pins, Zins, Bind, Bin, Bis
+
+*
+
+*
+
+*
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
++ hat
+
+& The 5 0: Theo, Tee, Ehe, Tue, These
+
++ Plakat
+
++ missen
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
+*
+
++ hausen
+
+*
+
+*
+
+*
+
+*
+
++ bellen
+
++ Zettel
+
++ sitzen
+
++ umarmen
+
++ futtern
+
++ kleben
+
+*
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
++ lächeln
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ nächste
+
++ fressen
+
++ Weg
+
++ traurig
+
++ fragen
+
++ hat
+
++ Plakat
+
+*
+
+*
+
++ allein
+
+*
+
+*
+
++ gehen
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+*
+
++ flennen
+
+*
+
+*
+
++ Freund
+
+*
+
++ klingeln
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ freuen
+
++ missen
+
+*
+
+*
+
+*
+
+*
+
++ freuen
+
+*
+
+*
+
+*
+
++ verschwunden
+
++ klingeln
+
++ sagen
+
++ musst
+
+*
+
+*
+
++ schütteln
+
++ Abend
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ all
+
+*
+
+& Doll 10 0: Dill, Dolly, Dell, Soll, Roll, Toll, Voll, Moll, Zoll, Dollar
+
+*
+
++ hängen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Minute
+
++ spät
+
++ hören
+
++ da
+
++ lachen
+
+*
+
++ ihr
+
+*
+
++ stehen
+
+*
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+*
+
++ stehen
+
++ gehen
+
++ warten
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Rausgestellt 7 0: Ausgestellt, Raus gestellt, Raus-gestellt, Vorausbestellt, Ausgestrahlt, Aufgestellt, Herausstellt
+
+*
+
++ umarmen
+
+*
+
+*
+
++ danken
+
++ lieb
+
+*
+
+*
+
+*
+
++ nochmal
+
+-
+
+*
+
+*
+
++ kriegen
+
++ Freudenträne
+
++ missen
+
+& Kucke 7 0: Jucke, Ducke, Gucke, Zucke, Kicke, Kecke, Kuckuck
+
+*
+
+*
+
++ telefonieren
+
++ freuen
+
+*
+
++ klingeln
+
+*
+
+*
+
++ finden
+
+& Lolli 1 0: Rolli
+
++ Plakat
+
+*
+
++ freuen
+
+*
+
+*
+
+*
+
+*
+
++ erstaunen
+
+*
+
+*
+
+*
+
++ wischen
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+*
+
+*
+
+& Vermisstzettel 3 0: Vermisst zettel, Vermisst-zettel, Vermisstenliste
+
+& Nix 6 0: Nixe, Nil, Fix, Mix, Unix, Nie
+
+*
+
+*
+
+*
+
+*
+
++ missen
+
+*
+
+*
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
++ telefonieren
+
++ waren
+
+& Lollipop 1 0: Pollinie
+
++ zeigen
+
++ gehen
+
+*
+
+*
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+*
+
+*
+
+*
+
+-
+
++ lächeln
+
+*
+
++ gehen
+
++ weinen
+
++ Straße
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ klingeln
+
+*
+
++ Plakat
+
+*
+
+*
+
++ klingeln
+
+*
+
++ klingeln
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ hängen
+
+*
+
+*
+
++ hausen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ heißen
+
+*
+
+*
+
+-
+
+-
+
+*
+
++ verlieren
+
+*
+
+*
+
++ telefonieren
+
+*
+
+& Aufgehangen 8 0: Aufgegangen, Aufgefangen, Auf gehangen, Auf-gehangen, Aufgehaltenen, Aufgehabten, Aufgehalten, Aufgehängten
+
++ weinen
+
+*
+
+*
+
++ warten
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ klein
+
+*
+
++ Plakat
+
++ kleben
+
+*
+
+*
+
+*
+
+*
+
++ Tür
+
+& Doll 10 0: Dill, Dolly, Dell, Soll, Roll, Toll, Voll, Moll, Zoll, Dollar
+
+*
+
+*
+
++ fressen
+
+*
+
++ langsam
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Wart
+
+*
+
+-
+
+*
+
++ Plakat
+
++ Plakat
+
+*
+
+*
+
+*
+
++ freuen
+
+*
+
+*
+
+*
+
++ hören
+
+*
+
+*
+
++ kannst
+
++ Tür
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ hängen
+
++ anrufen
+
+*
+
++ hängen
+
+*
+
+& Hey 4 0: Heu, He, Hedy, Her
+
+*
+
++ bringen
+
+*
+
++ klingeln
+
+*
+
+& Fresschen 7 0: Fressehen, Fresscaen, Fresschef, Friesischen, Frenetischen, Fröschen, Frischen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ gehen
+
++ warten
+
+*
+
+*
+
++ rufen
+
+*
+
++ rufen
+
+*
+
+*
+
+*
+
++ einen
+
++ lachen
+
+*
+
+*
+
++ teilen
+
++ voll
+
++ schellen
+
+& Dingdong 1 0: Davonging
+
+& Dong 4 0: Ding, Don, Dung, Gong
+
+*
+
+*
+
++ stehen
+
+*
+
+*
+
+& Rüber 7 0: Rübe, Über, Rüben, Trüber, Drüber, Verübe, Betrübe
+
++ danken
+
+*
+
+*
+
+*
+
++ sein
+
+*
+
+*
+
+*
+
++ Freund
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Lollipop 1 0: Pollinie
+
+*
+
++ Falle
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Haus
+
+*
+
+*
+
+*
+
++ beschäftigen
+
+*
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
+& Zurückkriegt 6 0: Zurück kriegt, Zurück-kriegt, Zurückliegt, Zurückfliegt, Zurückgelegt, Zurückbringt
+
+*
+
+& Renn 8 0: Ren, Renn-, Rens, Denn, Wenn, Renne, Rennt, Rein
+
++ stehen
+
+& Langweil 14 0: Langseil, Langwein, Langteil, Langweib, Langbeil, Langkeil, Langweile, Langweilt, Lang weil, Lang-weil, Langweilig, Langeweile, Langwellig, Weiland
+
++ sagen
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+*
+
++ danken
+
++ anrufen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ umarmen
+
+*
+
+*
+
+*
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+*
+
+*
+
++ kannst
+
++ Freud
+
+*
+
++ sagen
+
+*
+
+*
+
++ umarmen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ warten
+
++ warten
+
+& Klingelts 4 0: Klingelst, Klingelt, Klingelte, Klingel
+
+*
+
+*
+
+*
+
++ sollen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ hängen
+
+*
+
+*
+
+*
+
+& Gelächelt 5 0: Belächelt, Angelächelt, Gelächter, Lächelt, Getätschelt
+
++ sitzen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ hältst
+
++ warten
+
+*
+
+*
+
+*
+
++ Freud
+
+*
+
++ klingeln
+
+*
+
+& End 7 0: Ende, End-, Eid, Und, Den, Eng, Elend
+
++ dauern
+
++ dauern
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ hängen
+
+*
+
++ weinen
+
+*
+
++ warten
+
++ kriegen
+
++ freuen
+
+*
+
+*
+
+*
+
+& Umarm 5 0: Umarme, Umarmt, Um arm, Um-arm, Umarmen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ sagen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Tränchen 2 0: Tränken, Tranchen
+
+*
+
+*
+
+& Tränchen 2 0: Tränken, Tranchen
+
+*
+
++ ihr
+
+*
+
+& Tränchen 2 0: Tränken, Tranchen
+
++ riesig
+
++ ein
+
+-
+
++ kein
+
+-
+
+*
+
+*
+
+*
+
++ Freudenträne
+
+*
+
++ stehen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ hämmern
+
+& Na 7 0: Ja, Da, NS, NT, NL, Nah, An
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ suchen
+
+*
+
+-
+
+*
+
+*
+
+-
+
+*
+
++ schellen
+
+*
+
+*
+
++ missen
+
+*
+
+*
+
++ nicht
+
++ sagen
+
+*
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ lieb
+
+*
+
++ springen
+
+*
+
+*
+
+& Plitschnass 3 0: Klitschnass, Pitschnass, Patschnass
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ ein
+
+*
+
+*
+
++ ein
+
+*
+
+*
+
++ suchen
+
+*
+
+*
+
++ suchen
+
+*
+
+*
+
+*
+
+*
+
++ wen
+
+*
+
++ waren
+
+*
+
+-
+
+*
+
++ ziehen
+
+*
+
++ springen
+
+*
+
++ strömen
+
+& Doll 10 0: Dill, Dolly, Dell, Soll, Roll, Toll, Voll, Moll, Zoll, Dollar
+
+*
+
++ sagen
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
+& Gehts 3 0: Gehst, Geht, Gehöfts
+
+*
+
+& Zurückwinken 7 0: Zurückwirken, Zurück winken, Zurück-winken, Zurückwichen, Zurückwiesen, Zurückgewinnen, Zurückwirke
+
++ klappen
+
+*
+
++ jagen
+
++ vorn
+
+*
+
++ rennen
+
+*
+
+*
+
++ ankam
+
+*
+
++ schnüffeln
+
+*
+
+*
+
+*
+
++ wüsste
+
+*
+
+*
+
+& Plitschnass 3 0: Klitschnass, Pitschnass, Patschnass
+
++ kommen
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Spazierengegangen 3 0: Spazieren gegangen, Spazieren-gegangen, Niedergegangenen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ schnüffeln
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Plitschnass 3 0: Klitschnass, Pitschnass, Patschnass
+
++ verabreden
+
+*
+
+*
+
+*
+
++ schnell
+
++ sitzen
+
+*
+
+*
+
++ können
+
+*
+
+*
+
+*
+
+*
+
++ wollen
+
++ folgen
+
+*
+
++ in
+
+*
+
++ rennen
+
+*
+
++ nass
+
+*
+
+*
+
+*
+
++ kommen
+
++ hüpfen
+
+*
+
+*
+
+& Kucken 8 0: Jucken, Ducken, Gucken, Kuchen, Zucken, Kicken, Kecken, Kuckuck
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
++ landen
+
+*
+
+& Geschnuppert 4 0: Reinschnuppert, Schnuppert, Gescheppert, Geschnupft
+
++ erschrecken
+
+*
+
++ landen
+
+-
+
++ bleiben
+
++ nicht
+
++ kommen
+
+*
+
+*
+
+*
+
++ schaffen
+
+*
+
++ Herr
+
++ springen
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ in
+
++ müssen
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Rüber 7 0: Rübe, Über, Rüben, Trüber, Drüber, Verübe, Betrübe
+
+*
+
+*
+
+*
+
+-
+
++ springen
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ rannte
+
+*
+
+*
+
+*
+
++ entdecken
+
+*
+
++ rennen
+
++ weit
+
++ verlieren
+
+*
+
++ ziehen
+
+*
+
++ passieren
+
+*
+
+*
+
+*
+
++ nass
+
+*
+
+*
+
+*
+
++ wusste
+
+*
+
+*
+
+& Weggerannt 6 0: Weg gerannt, Weg-gerannt, Weggetragen, Angerannt, Weggetan, Gerannt
+
+& Geschwitzte 6 0: Geschwitzt, Geschnitzte, Schwitzte, Geschwister, Geschwärzte, Geschwänzte
+
+*
+
+*
+
+*
+
++ Ahnen
+
+*
+
+*
+
+*
+
+*
+
++ hüpfen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ reißen
+
+*
+
+*
+
+*
+
+*
+
++ fliegen
+
++ tarnen
+
+*
+
++ beschäftigen
+
++ sieht
+
+*
+
+*
+
+*
+
+*
+
+& Plitschnass 3 0: Klitschnass, Pitschnass, Patschnass
+
+*
+
+*
+
+& Plitscheplatschenass 1 0: Fliegenklatschen
+
++ hatte
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ bleiben
+
+*
+
+*
+
++ willst
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Leine
+
+*
+
+*
+
+& Patsch 6 0: Patch, Patsche, Putsch, Matsch, Platsch, Tolpatsch
+
+*
+
++ wollen
+
+*
+
+& Wehgetan 4 0: Weh getan, Weh-getan, Weggetan, Angeweht
+
+*
+
+*
+
+& Wehgetan 4 0: Weh getan, Weh-getan, Weggetan, Angeweht
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ wollen
+
+*
+
++ da
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ verlieren
+
++ schnüffeln
+
+*
+
+-
+
+*
+
++ springen
+
+& Wegläuft 6 0: Weg läuft, Weg-läuft, Wegluft, Wegläufe, Weglauft, Weitläufig
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
+*
+
++ folgen
+
+*
+
+& Plitschnass 3 0: Klitschnass, Pitschnass, Patschnass
+
+*
+
+*
+
+-
+
++ schnell
+
+*
+
++ schnell
+
+-
+
++ folgen
+
++ springen
+
+*
+
+-
+
++ nass
+
+*
+
++ rennen
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ entdecken
+
+*
+
+*
+
+*
+
+*
+
++ hüpfen
+
+*
+
+*
+
+*
+
++ springen
+
++ springen
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ staunen
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
++ schnüffeln
+
+*
+
+*
+
++ meinen
+
+*
+
+*
+
+*
+
+*
+
++ bellen
+
+& Passierts 9 0: Passtiers, Passwerts, Passierst, Passiert, Passierte, Passioniert, Passiere, Passiviere, Rasiert
+
+*
+
+*
+
+*
+
+*
+
++ sitzen
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
++ sehen
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
++ entwischen
+
++ stehen
+
++ erschöpfen
+
++ flitzen
+
++ springen
+
++ Kind
+
++ rennen
+
+-
+
++ jagen
+
++ waren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Geplumpst 1 0: Plumpst
+
+*
+
++ jagen
+
+*
+
++ schnell
+
+*
+
+& Wehgetan 4 0: Weh getan, Weh-getan, Weggetan, Angeweht
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
++ riechen
+
+*
+
++ springen
+
+*
+
++ rücken
+
+*
+
+*
+
+-
+
++ erzählen
+
++ ziehen
+
+*
+
++ bleiben
+
+& Jag 11 0: Jagd, Sag, Jan, Lag, Mag, Vag, Tag, Gag, Ja, Jage, Jagt
+
+*
+
+*
+
++ kommen
+
+& Herrchen 6 0: Herzchen, Herrschen, Herrlichen, Herrischen, Herrschern, Herrichten
+
++ spielen
+
+*
+
+*
+
+*
+
++ Lache
+
++ rutschen
+
++ Hände
+
++ rücken
+
+*
+
+*
+
+& Pitsche 6 0: Peitsche, Patsche, Putsche, Pirsche, Tscheche, Scheit
+
+*
+
++ rücken
+
++ rutschen
+
++ landen
+
+*
+
+*
+
+*
+
+*
+
+& Kommzeichen 2 0: Heimzukommen, Heimkommen
+
+*
+
+*
+
+*
+
++ lachen
+
++ springen
+
++ weit
+
++ springen
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
+*
+
++ hören
+
+*
+
+*
+
+-
+
+& Hinterhergerannt 6 0: Hinterher gerannt, Hinterher-gerannt, Hinterherranntet, Hinterherrannte, Hinterherrennt, Hinterherrennen
+
+*
+
+*
+
+*
+
++ Schritt
+
++ legen
+
+*
+
+*
+
+*
+
++ hüpfen
+
+*
+
++ funktionieren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ spucken
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
++ schnuppern
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
+& Verlier 10 0: Verlies, Verliere, Verliert, Verlieh, Verlief, Verzier, verließ, Verlierer, Verliebe, Verleiher
+
+& Reingesprungen 7 0: Eingesprungen, Rein gesprungen, Rein-gesprungen, Beigesprungenen, Beigesprungen, Angesprungenen, Gesprungenen
+
+-
+
+*
+
++ rennen
+
++ lassen
+
++ folgen
+
++ springen
+
++ springen
+
+*
+
+*
+
+& Weggerannt 6 0: Weg gerannt, Weg-gerannt, Weggetragen, Angerannt, Weggetan, Gerannt
+
+*
+
++ in
+
+*
+
+*
+
+*
+
+& Gehüpft 1 0: Hüpft
+
+*
+
++ voll
+
++ springen
+
++ suchen
+
+*
+
+*
+
+*
+
+*
+
++ bleiben
+
++ weit
+
++ waren
+
++ hüpfen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ Ware
+
+*
+
+*
+
++ waren
+
+*
+
++ waren
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ ärgern
+
++ kannst
+
+-
+
+*
+
+*
+
+*
+
+& Froschi 5 0: Frosch, Froschs, Frosch-, Froschei, Schilfrohr
+
+*
+
+*
+
++ rennen
+
+*
+
+*
+
++ sagen
+
+*
+
++ hören
+
+-
+
++ springen
+
+*
+
+*
+
+& The 5 0: Theo, Tee, Ehe, Tue, These
+
+*
+
+& Weggerannt 6 0: Weg gerannt, Weg-gerannt, Weggetragen, Angerannt, Weggetan, Gerannt
+
++ hüpfen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ wollen
+
++ rücken
+
+*
+
+& Wegfliegt 6 0: Weg fliegt, Weg-fliegt, Wegfliege, Wegfielt, Wegfegt, Fliegt
+
+*
+
++ frieren
+
++ zittern
+
++ arm
+
+-
+
+*
+
+*
+
+-
+
+*
+
+*
+
+& Runtergerutscht 6 0: Runter gerutscht, Runter-gerutscht, Runterrutscht, Runterrutschen, Runterrutsche, Runtergeschraubt
+
+*
+
+*
+
++ all
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
++ springen
+
+*
+
++ rennen
+
++ springen
+
++ rennen
+
+*
+
+& Gehüpft 1 0: Hüpft
+
+& Plumps 5 0: Pumps, Plump, Plumpes, Plumpst, Plumpe
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+-
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Losgerannt 6 0: Los gerannt, Los-gerannt, Losgerast, Losranntet, Losrannte, Angerannt
+
+*
+
+*
+
+& Steckengeblieben 3 0: Stecken geblieben, Stecken-geblieben, Erhaltengeblieben
+
+*
+
+*
+
+& Entdeck 3 0: Enddeck, Entdecke, Entdeckt
+
++ andere
+
+*
+
+*
+
+*
+
++ weglaufen
+
+*
+
+*
+
++ wollen
+
+*
+
+*
+
+*
+
++ kannst
+
++ knurren
+
+*
+
++ knicken
+
+*
+
++ springen
+
+*
+
++ Ruf
+
++ beide
+
+*
+
+*
+
+& Wupps 1 0: Trupps
+
+*
+
+& Pitschepatschenass 1 0: Tschetschenisch
+
+*
+
+*
+
++ rennen
+
+*
+
+*
+
+-
+
++ springen
+
+*
+
+& Wehtat 9 0: Weh tat, Weh-tat, Wegtat, Weihtat, Wehrtat, Wehtet, Wehtut, Sehtat, Weht
+
+*
+
+*
+
+*
+
+& Hinterherlaufen 8 0: Hinter herlaufen, Hinter-herlaufen, Hinterher laufen, Hinterher-laufen, Hinterherläuft, Hinterherfahren, Hinterherrannten, Hinterherhinken
+
++ stecken
+
++ stecken
+
+*
+
+*
+
++ springen
+
++ springen
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Hochgesprungen 6 0: Hoch gesprungen, Hoch-gesprungen, Hervorgesprungen, Hochgespannten, Hereingesprungen, Herausgesprungen
+
+*
+
++ ziehen
+
++ entdecken
+
++ sitzen
+
+*
+
+*
+
++ Tag
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ flutschen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Kommzeichen 2 0: Heimzukommen, Heimkommen
+
+*
+
+*
+
+*
+
++ erzählen
+
++ rannte
+
+& Plitschnass 3 0: Klitschnass, Pitschnass, Patschnass
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
+*
+
++ ganz
+
++ reißen
+
++ jagen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kannst
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
++ jucken
+
+*
+
+*
+
+*
+
++ setzen
+
++ fällen
+
++ Karton
+
++ Spiel
+
+*
+
+*
+
+*
+
++ Stein
+
+*
+
++ sitzen
+
+*
+
+*
+
+*
+
++ bewegen
+
+*
+
+*
+
+*
+
++ suchen
+
++ Wunder
+
+*
+
+*
+
++ Grad
+
+*
+
+*
+
+*
+
+*
+
++ hältst
+
+& Kucken 8 0: Jucken, Ducken, Gucken, Kuchen, Zucken, Kicken, Kecken, Kuckuck
+
++ passen
+
++ schlüpfen
+
+*
+
++ kriechen
+
+*
+
++ stürzen
+
++ rücken
+
+*
+
+& Gekrabbelt 2 0: Krabbelt, Gekabelt
+
++ krabbeln
+
+*
+
+*
+
+*
+
++ lachen
+
+& Görken 2 0: Gören, Gurken
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ konzentrieren
+
+& Na 7 0: Ja, Da, NS, NT, NL, Nah, An
+
++ konzentrieren
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ letzte
+
+*
+
+*
+
++ Kind
+
++ laufen
+
+*
+
+*
+
+*
+
++ erschrecken
+
+*
+
+*
+
++ stehen
+
++ möchten
+
+*
+
+*
+
+*
+
+*
+
+& Draufsetzen 4 0: Drauf setzen, Drauf-setzen, Aufsetzen, Aufzusetzen
+
+*
+
++ ihn
+
+*
+
++ umstürzen
+
++ letzte
+
+*
+
++ hielt
+
+*
+
++ kläffen
+
+*
+
++ kriechen
+
+& Schwupp 1 0: Schuppe
+
+*
+
+*
+
++ starren
+
+*
+
++ Kind
+
+*
+
+*
+
++ setzen
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Gehtnichtmehr 1 0: Mehrschichtig
+
++ neu
+
++ verabreden
+
++ konzentrieren
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ huschen
+
++ vorletzte
+
+*
+
+*
+
+*
+
++ schön
+
+*
+
+-
+
+*
+
++ waren
+
++ kaputtgehen
+
+*
+
+& Nix 6 0: Nixe, Nil, Fix, Mix, Unix, Nie
+
+-
+
++ Meinen
+
+*
+
+*
+
+*
+
+*
+
++ setzen
+
+*
+
+& Rausgekommen 7 0: Ausgekommen, Raus gekommen, Raus-gekommen, Herausgenommen, Heraufgekommen, Herausbekommen, Ausgenommenen
+
+*
+
+& Bobby 4 0: Lobby, Hobby, Bobboy, Bobbö
+
+*
+
++ sitzen
+
++ all
+
++ setzen
+
++ kommen
+
+*
+
+*
+
+& Bond 12 0: Bons, Bon, Bond-, Band, Bonn, Bord, Bund, Mond, Fond, Bon-, Bind, Blond
+
+*
+
+*
+
+*
+
+*
+
+& Gewundert 6 0: Bewundert, Gewandert, Gewunden, Verwundert, Wundertätig, Wundert
+
++ kriechen
+
++ packen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ setzen
+
+*
+
+*
+
+*
+
+*
+
++ passieren
+
+*
+
+*
+
++ heftig
+
+*
+
++ stehen
+
+*
+
+*
+
++ wackeln
+
+*
+
+*
+
+*
+
+*
+
++ kippen
+
++ seufzen
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ kippen
+
+& Wär 6 0: Bär, Wäre, Wärt, Wer, Wir, War
+
+-
+
++ spät
+
+*
+
+*
+
+-
+
++ wackeln
+
+*
+
+*
+
+*
+
++ wollen
+
+*
+
+-
+
++ viel
+
+*
+
++ krabbeln
+
+*
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
++ wollen
+
++ passieren
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+*
+
++ saß
+
+*
+
+*
+
+*
+
+*
+
++ begrüßen
+
+*
+
+& Dominick 3 0: Dominik, Domknick, Domini
+
+& Untern 13 0: Entern, Intern, Unter-, Unterm, Unter, Unten, Unteren, Untere, Unsern, Ungern, Untertan, Ernten, Ernte
+
++ bewegen
+
++ rutschen
+
++ knallen
+
+*
+
+*
+
++ zeigen
+
+-
+
+*
+
+& Jengaturm 1 0: Festungsturm
+
+*
+
+*
+
+*
+
+*
+
++ kippen
+
+& Leon 2 0: Neon, Lennon
+
+*
+
+*
+
+& Ronaldo 3 0: Ronald, Ronalds, Donald
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
+*
+
++ Sitz
+
++ Karton
+
+*
+
+*
+
+*
+
++ möchten
+
++ wen
+
+*
+
++ wollen
+
+*
+
+*
+
+*
+
+*
+
++ gelb
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ erstaunen
+
+*
+
+-
+
++ all
+
++ bewegen
+
+-
+
+*
+
+-
+
+-
+
++ setzen
+
+*
+
++ fragen
+
+*
+
++ schnuppern
+
++ vorletzte
+
+& Drauftun 4 0: Drauf tun, Drauf-tun, Auftun, Tundra
+
++ letzte
+
+*
+
++ Recht
+
+& Setz 9 0: Set, Sets, Sitz, Satz, Netz, Metz, Setze, Setzt, Gesetz
+
++ kriechen
+
+& Setz 9 0: Set, Sets, Sitz, Satz, Netz, Metz, Setze, Setzt, Gesetz
+
+& Rausgekommen 7 0: Ausgekommen, Raus gekommen, Raus-gekommen, Herausgenommen, Heraufgekommen, Herausbekommen, Ausgenommenen
+
+*
+
+*
+
+& Rausgekommen 7 0: Ausgekommen, Raus gekommen, Raus-gekommen, Herausgenommen, Heraufgekommen, Herausbekommen, Ausgenommenen
+
+*
+
+*
+
+*
+
++ bellen
+
+*
+
+*
+
+& Umfällt 5 0: Umfallt, Umfüllt, Um fällt, Um-fällt, Fällt
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ willst
+
++ dies
+
+*
+
+*
+
++ dies
+
+*
+
+*
+
+-
+
+*
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+*
+
+*
+
+*
+
++ sollen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+*
+
+-
+
+*
+
+*
+
+-
+
+-
+
++ schrien
+
++ lächeln
+
++ suchen
+
+*
+
+*
+
++ herkam
+
+& Jengaturm 1 0: Festungsturm
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ Weg
+
+*
+
+*
+
+*
+
++ Spiel
+
+*
+
++ schleichen
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ fällen
+
++ suchen
+
+& Kuckten 7 0: Juckten, Duckten, Guckten, Zuckten, Kickten, Druckten, Spuckten
+
+& Wackelturm 3 0: Wickelturm, Fackelturm, Verwackelt
+
+-
+
+*
+
++ traf
+
+-
+
+*
+
++ krabbeln
+
++ plump
+
+*
+
+*
+
+*
+
++ dauern
+
++ klingeln
+
+*
+
+-
+
+*
+
++ Sitz
+
+*
+
++ krabbeln
+
++ erschrecken
+
+*
+
++ doof
+
+*
+
+*
+
+*
+
+*
+
++ Sitz
+
+*
+
+& T-Shirt 2 0: T-Hirte, Sweatshirt
+
+*
+
+*
+
++ kommen
+
+*
+
+*
+
+*
+
++ doof
+
+*
+
++ kriechen
+
+*
+
+-
+
++ Falle
+
+*
+
+*
+
+*
+
++ wollen
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ wollen
+
+*
+
++ sollen
+
+*
+
++ sollen
+
++ spät
+
+-
+
+*
+
+*
+
+& Reingeschmuggelt 6 0: Rein geschmuggelt, Rein-geschmuggelt, Herausgeschmuggelt, Eingeschmeichelt, Vorbeischmuggelt, Geschmuggelt
+
++ Ware
+
+*
+
++ klein
+
+*
+
++ musst
+
+*
+
++ wollen
+
+*
+
+*
+
+*
+
+& Wackelturm 3 0: Wickelturm, Fackelturm, Verwackelt
+
+& Nicko 2 0: Nicke, Nickt
+
+*
+
+*
+
++ fällen
+
+*
+
++ bewegen
+
++ sitzen
+
+*
+
++ Lache
+
+*
+
+*
+
+*
+
++ dies
+
++ schleichen
+
++ stürzen
+
+*
+
++ kannst
+
+*
+
+*
+
+*
+
+*
+
++ schnuppern
+
++ treten
+
+*
+
+*
+
+*
+
+*
+
++ setzen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+-
+
+*
+
+*
+
++ setzen
+
+*
+
+*
+
+& Klotztraum 1 0: Hauklotz
+
+*
+
+*
+
+*
+
++ Stein
+
+*
+
+*
+
+& Wars 14 0: Warts, Ware, Wart, Wams, Lars, Mars, Bars, Ward, War, Was, Warst, Warm, Warb, Warf
+
+*
+
+*
+
+*
+
+-
+
++ merken
+
+*
+
+& Draufsetzen 4 0: Drauf setzen, Drauf-setzen, Aufsetzen, Aufzusetzen
+
++ setzen
+
+*
+
+*
+
++ einzig
+
++ Ware
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ stecken
+
+*
+
++ plump
+
+*
+
++ möchten
+
++ Link
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ setzen
+
+*
+
+*
+
++ Lache
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Kiste
+
+*
+
+*
+
++ wollen
+
++ fliegen
+
+*
+
+*
+
+*
+
+*
+
++ lachen
+
++ ging
+
+*
+
++ gehen
+
++ letzte
+
+*
+
+*
+
++ lachen
+
+*
+
+*
+
+& Wackelturm 3 0: Wickelturm, Fackelturm, Verwackelt
+
+*
+
+*
+
+*
+
++ fallen
+
+*
+
+*
+
++ wackeln
+
++ suchen
+
+*
+
++ nett
+
+*
+
+& Gingka 1 0: Anging
+
+& Hagane 1 0: Hanne
+
++ wollen
+
+*
+
++ wollen
+
+*
+
+& Hagane 1 0: Hanne
+
+*
+
++ krachen
+
++ erschrecken
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+-
+
++ Haar
+
+*
+
++ kippen
+
++ kaputt
+
++ Recht
+
+*
+
+*
+
+*
+
++ kannst
+
+*
+
++ setzen
+
+*
+
+*
+
+*
+
++ Wolle
+
+*
+
++ eigen
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+& T-Shirt 2 0: T-Hirte, Sweatshirt
+
+*
+
+*
+
+& The 5 0: Theo, Tee, Ehe, Tue, These
+
+*
+
+*
+
+*
+
++ letzte
+
+*
+
++ fällen
+
+*
+
++ da
+
++ ganz
+
+*
+
+*
+
++ springen
+
++ all
+
+*
+
+*
+
++ braun
+
+& Ner 11 0: Er, Nero, Nerv, Nerz, Der, Per, Her, New, Wer, Neu, Nur
+
++ wissen
+
+& Nö 5 0: NS, NT, NL, Bö, Nöte
+
+*
+
+*
+
+*
+
++ sah
+
+-
+
++ rutschen
+
++ waren
+
+*
+
+*
+
+*
+
++ Pfote
+
++ zweifeln
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Kiste
+
+*
+
++ Haar
+
+*
+
+*
+
++ stehen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ halten
+
+*
+
+*
+
+*
+
+& Kucken 8 0: Jucken, Ducken, Gucken, Kuchen, Zucken, Kicken, Kecken, Kuckuck
+
+*
+
+*
+
++ konzentrieren
+
+*
+
+*
+
++ lassen
+
+& Schleich 9 0: Scheich, Schlich, Schleiche, Schleicht, Schliche, Schleichweg, Schlesisch, Schleiße, Schleife
+
+*
+
++ setzen
+
+*
+
++ erschrecken
+
++ all
+
++ kaputt
+
+-
+
+& Bello 4 0: Cello, Belle, Bellt, Belog
+
++ Karton
+
+*
+
+*
+
+& Setz 9 0: Set, Sets, Sitz, Satz, Netz, Metz, Setze, Setzt, Gesetz
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Klötze
+
++ weit
+
++ andere
+
+*
+
+*
+
+*
+
+*
+
++ Karton
+
++ nehmen
+
+& Jengateil 1 0: Eingeteilt
+
+& Jengaspiel 1 0: Angespielt
+
++ halten
+
+*
+
+*
+
+*
+
++ fallen
+
+*
+
+*
+
+*
+
++ kommen
+
+*
+
+*
+
+*
+
+*
+
++ Sitz
+
+*
+
+*
+
++ Spiel
+
++ Stein
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Karton
+
+*
+
++ faszinieren
+
+*
+
+*
+
++ Karton
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Runterfällt 6 0: Runter fällt, Runter-fällt, Herunterfällt, Hinunterfällt, Herunterfallt, Unterhält
+
+*
+
++ letzte
+
+*
+
+& Reingegangen 7 0: Eingegangen, Rein gegangen, Rein-gegangen, Einhergegangen, Hingegangenen, Hingegangen, Angegangenen
+
+*
+
+*
+
+*
+
+*
+
++ sitzen
+
+*
+
+*
+
+*
+
+*
+
+& Wehgetan 4 0: Weh getan, Weh-getan, Weggetan, Angeweht
+
+& Wehgetan 4 0: Weh getan, Weh-getan, Weggetan, Angeweht
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Ah 15 0: Eh, Ar, Oh, Au, Sh, AI, AT, Ch, AG, Ph, Sah, Nah, Ach, An, Ad
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Jenga 1 0: Jena
+
++ gehen
+
+*
+
+& Rauszuziehen 7 0: Auszuziehen, Raus zuziehen, Raus-zuziehen, Herausziehen, Heranzuziehen, Herausziehe, Vorauszusehen
+
++ ziehen
+
+& T-Shirt 2 0: T-Hirte, Sweatshirt
+
++ bewegen
+
+& Rausgekommen 7 0: Ausgekommen, Raus gekommen, Raus-gekommen, Herausgenommen, Heraufgekommen, Herausbekommen, Ausgenommenen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ halten
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ beschlossen
+
++ rappeln
+
+& Wow 3 0: Dow, Wo, Wog
+
++ Achten
+
+*
+
+& Aha 2 0: Ada, Hahn
+
+*
+
+& Wackelturm 3 0: Wickelturm, Fackelturm, Verwackelt
+
+*
+
+*
+
+*
+
+& Runterfällt 6 0: Runter fällt, Runter-fällt, Herunterfällt, Hinunterfällt, Herunterfallt, Unterhält
+
+*
+
++ fällen
+
+*
+
++ Falle
+
+*
+
+*
+
+*
+
+*
+
++ zerstört
+
++ willst
+
+*
+
+*
+
+*
+
+*
+
++ spät
+
+*
+
++ spät
+
+-
+
++ hatte
+
+& Gewundert 6 0: Bewundert, Gewandert, Gewunden, Verwundert, Wundertätig, Wundert
+
+*
+
++ schön
+
+*
+
+*
+
++ bewegen
+
++ zerstört
+
+*
+
+*
+
+*
+
++ packen
+
+*
+
+-
+
+*
+
+& Bumm 4 0: Summ, Dumm, Mumm, Bummler
+
+*
+
+& Hinfällt 5 0: Einfällt, Hinfallt, Hin fällt, Hin-fällt, Hinfällig
+
+*
+
+*
+
+-
+
++ gibt
+
+*
+
++ schaffen
+
+*
+
++ machen
+
++ schnüffeln
+
++ schnüffeln
+
+*
+
++ drehen
+
+*
+
+*
+
+*
+
+*
+
++ krabbeln
+
+*
+
+*
+
++ rutschen
+
+*
+
+*
+
++ Kind
+
++ Kind
+
+-
+
+*
+
++ krabbeln
+
+*
+
+*
+
+& Tobi 4 0: Tori, Tobe, Tobt, Tobias
+
++ magst
+
++ Karton
+
++ gehen
+
+*
+
+*
+
++ sitzen
+
+*
+
+& T-Shirt 2 0: T-Hirte, Sweatshirt
+
+*
+
+*
+
++ Wechsel
+
+*
+
+*
+
+*
+
++ kippen
+
+-
+
+*
+
++ letzte
+
+*
+
+& Drauftun 4 0: Drauf tun, Drauf-tun, Auftun, Tundra
+
+*
+
+*
+
+& Draufsetzt 4 0: Drauf setzt, Drauf-setzt, Aufsetzt, Aufsetze
+
+*
+
+& Nirgendswo 5 0: Nirgendwo, Nirgends wo, Nirgends-wo, Nirgends, Irgendwo
+
++ stürzen
+
+-
+
+*
+
+*
+
+*
+
++ gruslig
+
+*
+
+*
+
+*
+
++ Sitz
+
++ setzen
+
+& Wackel 9 0: Wickel, Dackel, Fackel, Wackle, Wackele, Wackeln, Wackelt, Wacker, Gewackel
+
++ hältst
+
++ Stein
+
+*
+
+*
+
+*
+
++ all
+
++ cool
+
+*
+
+*
+
++ entdecken
+
+*
+
+*
+
+*
+
+*
+
++ wollen
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
++ ganz
+
+*
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+*
+
++ bellen
+
++ fliegen
+
++ bekannt
+
++ währen
+
+*
+
++ halten
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ verabreden
+
+*
+
+*
+
+*
+
++ waren
+
+*
+
++ verabschieden
+
+*
+
+& Reinzukommen 7 0: Einzukommen, Rein zukommen, Rein-zukommen, Hinzukommen, Reinkommen, Vorbeizukommen, Voranzukommen
+
+& Reingekommen 6 0: Rein gekommen, Rein-gekommen, Hereingekommen, Übereingekommen, Hingekommenen, Hereingenommen
+
+*
+
+*
+
++ willst
+
+*
+
++ kriechen
+
+*
+
++ sitzen
+
+*
+
+*
+
++ kommen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Spiel
+
+*
+
+*
+
+-
+
++ fragen
+
+*
+
+*
+
+*
+
+-
+
+& Bemerk 6 0: Bemerke, Bemerkt, Bemerken, Bemerkbar, Merker, Merk
+
+*
+
+*
+
+*
+
++ krabbeln
+
++ währen
+
++ setzen
+
+*
+
++ weit
+
+*
+
+*
+
++ springen
+
++ verletzen
+
++ kriechen
+
++ Tod
+
+& Can 10 0: An, Caen, Ran, Man, Van, San, Jan, Pan, Fan, Ca.
+
+& Nix 6 0: Nixe, Nil, Fix, Mix, Unix, Nie
+
+*
+
++ andere
+
+*
+
+*
+
++ lachen
+
++ all
+
+& Wackelturm 3 0: Wickelturm, Fackelturm, Verwackelt
+
+*
+
++ Arm
+
+*
+
++ knallen
+
+*
+
+*
+
+*
+
+*
+
++ schütten
+
++ ausleeren
+
+-
+
++ rücken
+
++ räumen
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+& Geschlabbert 4 0: Schlabbert, Geschwabbelt, Schlabberig, Abgeschlachtet
+
++ drehen
+
+& Kucken 8 0: Jucken, Ducken, Gucken, Kuchen, Zucken, Kicken, Kecken, Kuckuck
+
+*
+
+*
+
+*
+
+*
+
++ kratzen
+
++ ein
+
+*
+
++ sagen
+
+*
+
+*
+
++ denken
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ festhältst
+
+*
+
+-
+
++ saugen
+
++ springen
+
++ ganz
+
+*
+
+*
+
+*
+
++ bellen
+
++ sollen
+
++ holen
+
+*
+
+*
+
++ ziehen
+
+& Aufgestaubt 5 0: Aufgestaut, Aufgestrebt, Aufgeschraubt, Aufgestapelt, Abgestaubt
+
+& Rausgeholt 6 0: Ausgeholt, Raus geholt, Raus-geholt, Herausholt, Ausgerollt, Ausgestrahlt
+
+*
+
+-
+
+*
+
+*
+
++ zerren
+
++ staubsaugen
+
++ Sorge
+
+-
+
+-
+
+*
+
+*
+
+*
+
++ dies
+
+*
+
+& Gehtnichtmehr 1 0: Mehrschichtig
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ folgen
+
+-
+
++ zerreißen
+
+*
+
+*
+
+*
+
+-
+
++ stehen
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ Fliege
+
+*
+
+*
+
++ stauben
+
++ bellen
+
++ hören
+
+*
+
+*
+
++ bellen
+
++ stehen
+
+*
+
++ zerren
+
+*
+
++ wären
+
+*
+
+-
+
+*
+
+-
+
+-
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
+*
+
+-
+
+& Festgekrallt 3 0: Festgeschnallt, Festgestellt, Kaltgestellt
+
+-
+
+*
+
+*
+
++ räumen
+
+*
+
+& Häng 5 0: Hänge, Hang, Hängt, Hing, Hängig
+
+*
+
+*
+
++ den
+
+*
+
++ Geräusch
+
+*
+
++ tun
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+*
+
+*
+
+& Hm 14 0: He, Im, Am, Cm, Hd, Dm, Um, Mm, Km, Qm, Hz, HP, Ihm, Ohm
+
+*
+
+-
+
+*
+
++ kreisen
+
+-
+
+*
+
+*
+
++ aufpassen
+
+*
+
+*
+
++ leeren
+
+*
+
+*
+
++ Falle
+
+*
+
+*
+
++ explodieren
+
++ explodieren
+
++ staubsaugen
+
+*
+
++ fegen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ passieren
+
++ wechseln
+
+*
+
+*
+
++ explodieren
+
++ dreckig
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ schön
+
++ übersetzen
+
+*
+
+*
+
+-
+
++ schnüffeln
+
++ staubsaugen
+
++ Knochen
+
++ krallen
+
++ zerreißen
+
+*
+
+*
+
+-
+
+-
+
+-
+
++ staubsaugen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ explodieren
+
+-
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ wären
+
++ bekommen
+
+*
+
+*
+
++ langen
+
++ lecker
+
++ kläffen
+
+*
+
+-
+
++ bekommen
+
++ wirren
+
+-
+
++ Wohnen
+
+-
+
+*
+
++ bellen
+
++ aufsaugen
+
++ passieren
+
++ erschrecken
+
+*
+
++ bedingt
+
+& Peng 2 0: Eng, Peking
+
+*
+
++ stauben
+
+-
+
+-
+
++ saugen
+
+-
+
+*
+
+-
+
++ betteln
+
+*
+
+*
+
+-
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+-
+
+*
+
+-
+
++ krallen
+
+-
+
++ fliegen
+
++ schütten
+
+*
+
+*
+
+-
+
+*
+
+& Rausgenommen 7 0: Ausgenommen, Raus genommen, Raus-genommen, Herausgekommen, Ausgekommen, Aufgenommenen, Aufgenommen
+
+-
+
++ Riss
+
+*
+
+*
+
++ staubsaugen
+
+*
+
++ ziehen
+
+*
+
+*
+
+*
+
+*
+
++ ihr
+
++ Keks
+
+*
+
++ Keks
+
++ Keks
+
+& Reintun 10 0: Renntun, Reittun, Reiztun, Beintun, Feintun, Weintun, -eintun, Rein tun, Rein-tun, Reinkultur
+
+-
+
+*
+
++ Wohnen
+
+-
+
+-
+
+*
+
+-
+
+-
+
+*
+
++ bellen
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+*
+
+*
+
++ staubsaugen
+
++ währen
+
+-
+
+*
+
++ willst
+
++ beißen
+
++ gelingen
+
+*
+
+*
+
++ schockieren
+
+& Weggestaubt 1 0: Abgestaubt
+
++ stimmen
+
+*
+
++ suchen
+
+-
+
+*
+
++ platzen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Wiederzukriegen 6 0: Wiederzugkriegen, Wiederzugriegen, Wiederkriegen, Wiederzuvereinigen, Wiederzukommen, Wiederzugeben
+
++ kriegen
+
+*
+
+& Leckerlie 1 0: Leckerli
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ wohnen
+
+*
+
+*
+
++ musst
+
+*
+
++ Wechsel
+
+*
+
+*
+
++ staubsaugen
+
++ staunen
+
+*
+
+-
+
+-
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ entschuldigt
+
++ holen
+
+& Dvd- 1 0: DVD
+
++ Film
+
+-
+
++ streuen
+
++ zerren
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ kratzen
+
+*
+
+*
+
+*
+
+-
+
++ geplatzt
+
+& Leckerlis 3 0: Leckerli, Leckerlös, Leckerbissen
+
+& Auszuleeren 4 0: Auszulesen, Auszulegen, Auszuleben, Auszuleihen
+
++ schnappen
+
+*
+
++ staubsaugen
+
+*
+
+*
+
++ holen
+
+*
+
+-
+
++ Keks
+
+*
+
+-
+
+*
+
++ kratzen
+
++ platzen
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ fassen
+
+*
+
++ staubsaugen
+
+& Staubgesaugt 6 0: Staub gesaugt, Staub-gesaugt, Staubsaugt, Staubsauge, Abgesaugt, Abgestaubt
+
+& Nachgekuckt 4 0: Nachgedruckt, Nachgekauft, Nachgeschickt, Nachgerückt
+
+*
+
+& Zurückhaben 5 0: Zurückgaben, Zurück haben, Zurück-haben, Zurückhalten, Zurückbehalten
+
+*
+
++ beobachten
+
+*
+
+*
+
+-
+
+*
+
+-
+
++ staubsaugen
+
++ staubsaugen
+
+*
+
++ leeren
+
+-
+
++ explodieren
+
+*
+
+-
+
++ viel
+
+*
+
++ weit
+
+-
+
+-
+
++ betteln
+
++ zerkratzen
+
+*
+
+*
+
+-
+
++ saugen
+
+-
+
+*
+
++ springen
+
+*
+
+*
+
+*
+
++ lehnen
+
+& Rausgenommen 7 0: Ausgenommen, Raus genommen, Raus-genommen, Herausgekommen, Ausgekommen, Aufgenommenen, Aufgenommen
+
+-
+
+*
+
++ verschwunden
+
++ Keks
+
++ staubsaugen
+
+*
+
+-
+
++ saugen
+
+-
+
+*
+
++ bringen
+
+*
+
+*
+
+*
+
++ machen
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ wegschmeißen
+
++ halten
+
++ nervig
+
+*
+
++ Geräusch
+
++ nicken
+
+& Ud 14 0: Ude, Udo, Ad, Öd, US, UN, Md, Hd, UV, Du, Und, Lud, Sud, Um
+
+*
+
+*
+
++ währen
+
++ möchten
+
+& Gelärm 3 0: Genlärm, Gelärmt, Gelähmt
+
+*
+
+& Gestaubt 7 0: Gestaunt, Gestaut, Gestäubt, Abgestaubt, Staubsauge, Staubt, Ausgeraubt
+
++ entsetzen
+
+-
+
+*
+
+*
+
+*
+
++ all
+
+*
+
+-
+
+*
+
+-
+
+*
+
++ ziehen
+
+*
+
++ stimmen
+
+-
+
+-
+
+*
+
+*
+
+*
+
+& Gekleckert 4 0: Kleckert, Geklettert, Gemeckert, Gelockert
+
+*
+
+-
+
++ Kralle
+
++ saugen
+
+-
+
++ platzen
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ aufsaugen
+
+-
+
+*
+
+*
+
++ nächste
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ all
+
+-
+
+*
+
+*
+
++ zerplatzen
+
+*
+
+*
+
+-
+
+*
+
+-
+
+& Eingesaugt 4 0: Ein gesaugt, Ein-gesaugt, Angesaugt, Eingesandt
+
+-
+
++ klammern
+
++ Wohnen
+
++ teilen
+
+*
+
+*
+
+*
+
++ hältst
+
+-
+
+*
+
+& Hundeleckerlis 3 0: Hundeleckerli, Hundeleckerlös, Wunderlichkeit
+
+-
+
++ benutzen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Keks
+
++ ziehen
+
+*
+
+*
+
++ platzen
+
+-
+
+*
+
+*
+
+-
+
+& Leckerlis 3 0: Leckerli, Leckerlös, Leckerbissen
+
++ Gefahr
+
+-
+
+*
+
+& Beschließ 6 0: Beschließe, Beschließt, Beschieße, Schließlich, Beschießen, Abschließe
+
+*
+
+*
+
++ erwischen
+
+*
+
+*
+
++ schmeißen
+
++ reißen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ passieren
+
++ schlimm
+
++ zerkratzen
+
++ freuen
+
++ rücken
+
++ wunderschön
+
+*
+
++ dies
+
++ fragen
+
++ zerren
+
++ zerren
+
++ staubsaugen
+
++ Kralle
+
+-
+
++ krallen
+
++ sagen
+
+-
+
+*
+
+*
+
+*
+
+*
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
+*
+
+& Eingesaugt 4 0: Ein gesaugt, Ein-gesaugt, Angesaugt, Eingesandt
+
+*
+
+& Einsaugte 4 0: Einsaugtee, Ein saugte, Ein-saugte, Einzusaugen
+
+*
+
+*
+
+*
+
++ hindern
+
+*
+
+*
+
++ Detektiv
+
+*
+
+& Hundeleckerlis 3 0: Hundeleckerli, Hundeleckerlös, Wunderlichkeit
+
+*
+
+*
+
+-
+
+*
+
++ leeren
+
++ schmutzen
+
+& Gestaubt 7 0: Gestaunt, Gestaut, Gestäubt, Abgestaubt, Staubsauge, Staubt, Ausgeraubt
+
+*
+
+*
+
+& Kekschen 3 0: Keuschen, Schenken, Schenke
+
+*
+
++ rücken
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ kratzen
+
++ Keks
+
++ schütten
+
++ krallen
+
+*
+
+-
+
+*
+
+*
+
++ anschließen
+
+-
+
++ Wohnen
+
++ Wechsel
+
+*
+
++ platzen
+
+-
+
+*
+
+& Gestaubt 7 0: Gestaunt, Gestaut, Gestäubt, Abgestaubt, Staubsauge, Staubt, Ausgeraubt
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ Keks
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
++ öffnen
+
+*
+
++ Wohnen
+
+*
+
++ Aug
+
+*
+
++ sitzen
+
+*
+
+& Ausversehen 7 0: Ausersehen, Aus versehen, Aus-versehen, Versehenen, Voraussehen, Versehen, Auszusehen
+
+& Hm 14 0: He, Im, Am, Cm, Hd, Dm, Um, Mm, Km, Qm, Hz, HP, Ihm, Ohm
+
++ denken
+
+*
+
+& Wauwau 1 0: Lauwarm
+
++ sagen
+
+-
+
+-
+
+*
+
+*
+
+& Wauwauwau 1 0: Lauwarm
+
+*
+
++ erwischen
+
+-
+
++ erwischen
+
+*
+
+*
+
+*
+
+*
+
++ den
+
++ passieren
+
++ erzählen
+
+*
+
+*
+
+& Einstaubt 6 0: Einstaub, Einstaubs, Einstaub-, Ein staubt, Ein-staubt, Einstand
+
++ wechseln
+
+-
+
+-
+
++ tauschen
+
+-
+
+-
+
+*
+
++ all
+
+-
+
+*
+
+-
+
+& Wegzuschmeißen 9 0: Weg zuschmeißen, Weg-zuschmeißen, Wegtuschmeißen, Wegduschmeißen, Wegbuschmeißen, Wegschmeißen, Hinzuschmeißen, Zuschmeißen, Zusammenschweißen
+
+-
+
+*
+
+& Räum 4 0: Rum, Räume, Raum, Räumt
+
+*
+
+*
+
+-
+
+-
+
+*
+
++ Spitze
+
+*
+
++ leeren
+
+*
+
+*
+
+*
+
+*
+
++ bringen
+
+& Leckerchen 10 0: Leckrechen, Lecklerchen, Leckeschen, Leckeichen, Leckarchen, Leckelchen, Leckeren, Erklecklichen, Lerchen, Schlecken
+
+& Leckerchen 10 0: Leckrechen, Lecklerchen, Leckeschen, Leckeichen, Leckarchen, Leckelchen, Leckeren, Erklecklichen, Lerchen, Schlecken
+
++ klammern
+
+*
+
+*
+
+*
+
++ Erledigen
+
+-
+
+*
+
+& Gestaubt 7 0: Gestaunt, Gestaut, Gestäubt, Abgestaubt, Staubsauge, Staubt, Ausgeraubt
+
+-
+
+-
+
+*
+
+*
+
++ zerren
+
+*
+
++ erstaunen
+
+*
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+-
+
+*
+
+& Kuck 6 0: Guck, Zuck, Ruck, Kick, Keck, Kuckuck
+
++ Geräusch
+
++ putzen
+
+*
+
+*
+
++ bellen
+
+-
+
+*
+
++ kratzen
+
++ sein
+
+*
+
+*
+
++ saugen
+
++ zupfen
+
+*
+
+*
+
+*
+
+*
+
++ kratzen
+
++ sammeln
+
+*
+
++ aufräumen
+
+*
+
+*
+
+& Wegzuschmeißen 9 0: Weg zuschmeißen, Weg-zuschmeißen, Wegtuschmeißen, Wegduschmeißen, Wegbuschmeißen, Wegschmeißen, Hinzuschmeißen, Zuschmeißen, Zusammenschweißen
+
+*
+
++ ziehen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Stürz 4 0: Sturz, Stürze, Stürzt, Stürzen
+
++ fegen
+
+*
+
++ räumen
+
+& Irgendwoanders 5 0: Irgend woanders, Irgend-woanders, Irgendwo anders, Irgendwo-anders, Irgendwohin
+
++ überraschen
+
+*
+
+*
+
+& Nix 6 0: Nixe, Nil, Fix, Mix, Unix, Nie
+
+*
+
+-
+
++ schmeißen
+
+*
+
++ möchten
+
+*
+
+*
+
+*
+
+-
+
+*
+
+& Buh 9 0: Bug, Bush, Buch, Bus, Bub, Kuh, Buhe, Buht, Buk
+
+& Ah 15 0: Eh, Ar, Oh, Au, Sh, AI, AT, Ch, AG, Ph, Sah, Nah, Ach, An, Ad
+
+*
+
++ schrien
+
+*
+
+*
+
+-
+
+*
+
+-
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ bellen
+
++ machen
+
+*
+
++ schnappen
+
++ überraschen
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ staubsaugen
+
+*
+
++ ziehen
+
+*
+
+& Ärgermachende 6 0: Ärger machende, Ärger-machende, Hermachende, Niedermachende, Vermachende, Heranmachende
+
++ bellen
+
++ erschrecken
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ holen
+
+-
+
+*
+
++ möchten
+
++ staubsaugen
+
+& Einzuschlafen 5 0: Einzuschlagen, Einzuschleusen, Einzuschläfern, Einzuschließen, Einzuschalten
+
+*
+
++ bemerkt
+
++ starren
+
++ voll
+
++ ganz
+
++ willst
+
++ klettern
+
++ explodieren
+
++ erschrecken
+
+*
+
++ ergattern
+
+*
+
+-
+
++ perfekt
+
+-
+
+*
+
++ fangen
+
++ legen
+
++ staubsaugen
+
+*
+
+-
+
++ hängen
+
+*
+
+*
+
+*
+
++ saugen
+
+*
+
++ Richten
+
+*
+
+*
+
+& Bam 9 0: Am, Baum, Bai, Bar, Bad, Bau, Kam, Sam, Bat
+
+-
+
+*
+
+*
+
++ vorsichtig
+
+*
+
++ staubsaugen
+
+& Leckerlis 3 0: Leckerli, Leckerlös, Leckerbissen
+
+& Wegsaugt 4 0: Weg saugt, Weg-saugt, Wegsaug-, Ausgesaugt
+
++ ziehen
+
++ explodieren
+
+*
+
++ fliegen
+
+& Leckerlis 3 0: Leckerli, Leckerlös, Leckerbissen
+
+*
+
+*
+
++ räumen
+
++ dritt
+
+-
+
++ klettern
+
++ zerren
+
+*
+
+& Leckerchen 10 0: Leckrechen, Lecklerchen, Leckeschen, Leckeichen, Leckarchen, Leckelchen, Leckeren, Erklecklichen, Lerchen, Schlecken
+
+*
+
+*
+
+-
+
++ musst
+
+*
+
++ wecken
+
+*
+
+*
+
++ Freud
+
+*
+
++ möchten
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+& Wiederhaben 8 0: Wiedergaben, Wiederhabern, Wiederhauben, Wieder haben, Wieder-haben, Wiederholen, Wiederbeleben, Wiedergeben
+
+*
+
+*
+
++ staubsaugen
+
+-
+
+*
+
+& The 5 0: Theo, Tee, Ehe, Tue, These
+
++ räumen
+
+*
+
+*
+
++ sagen
+
+*
+
++ fragen
+
++ da
+
+*
+
++ machen
+
+*
+
+*
+
+*
+
++ möglich
+
+*
+
++ gibt
+
++ Keks
+
++ den
+
+*
+
+*
+
++ putzen
+
++ ganz
+
+& Kuck 6 0: Guck, Zuck, Ruck, Kick, Keck, Kuckuck
+
+-
+
+*
+
+*
+
++ bedingt
+
+*
+
++ verkratzen
+
++ verkratzen
+
++ ganz
+
+*
+
++ ganz
+
+*
+
++ ganz
+
+-
+
+-
+
++ holen
+
++ gucken
+
+*
+
+-
+
+& Draufgeklettert 4 0: Drauf geklettert, Drauf-geklettert, Hinaufgeklettert, Draufgeklebt
+
+& Rausnehmen 12 0: Ausnehmen, Ratsnehmen, Raumnehmen, Raubnehmen, Mausnehmen, Hausnehmen, Raus nehmen, Raus-nehmen, Herausnehme, Herauszunehmen, Ausnehme, Auszunehmen
+
+*
+
+*
+
++ kommen
+
+& Oje 4 0: Je, Ode, Boje, Koje
+
+& Oje 4 0: Je, Ode, Boje, Koje
+
++ Wohnen
+
+& Eingesaugt 4 0: Ein gesaugt, Ein-gesaugt, Angesaugt, Eingesandt
+
+*
+
+*
+
++ Keks
+
++ können
+
+*
+
+*
+
+& Eingesaugt 4 0: Ein gesaugt, Ein-gesaugt, Angesaugt, Eingesandt
+
+-
+
+*
+
++ betteln
+
++ Keks
+
++ schön
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ schön
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ fliegen
+
++ ganz
+
++ wecken
+
+-
+
+*
+
++ entfernt
+
+*
+
+*
+
++ staubsaugen
+
++ staubsaugen
+
++ staubsaugen
+
++ schlimm
+
+-
+
+*
+
+*
+
++ ziehen
+
++ schimpfen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ zerkratzen
+
+*
+
+*
+
+*
+
+*
+
++ gucken
+
+& Leckerlis 3 0: Leckerli, Leckerlös, Leckerbissen
+
+*
+
++ ziehen
+
+& Leckerlie 1 0: Leckerli
+
+*
+
+-
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ Poster
+
++ Überraschen
+
+& Nachhause 4 0: Nach hause, Nach-hause, Nachschaue, Nachschau
+
+*
+
++ rufen
+
++ freuen
+
++ weinen
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+*
+
+& Rumlaufen 7 0: Umlaufen, Rum laufen, Rum-laufen, Herumlaufe, Rumlagen, Auflaufen, Umlaufe
+
+*
+
+*
+
+*
+
++ flitzen
+
+*
+
++ sagen
+
++ danken
+
+*
+
+*
+
+*
+
+*
+
++ Geschäft
+
+& Setz 9 0: Set, Sets, Sitz, Satz, Netz, Metz, Setze, Setzt, Gesetz
+
+*
+
+*
+
+*
+
++ kurz
+
+*
+
+*
+
+*
+
+*
+
++ bringen
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ freuen
+
+*
+
+*
+
+*
+
++ möglich
+
++ warten
+
+*
+
+*
+
+*
+
++ Plakat
+
++ Falle
+
++ stehen
+
++ kriegen
+
++ schenken
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+*
+
++ kleben
+
+*
+
+-
+
+& Waut 12 0: Wut, Saut, Wart, Raut, Watt, Taut, Laut, Haut, Baut, Kaut, Maut, Wagt
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+*
+
++ missen
+
+& Lollipop 1 0: Pollinie
+
+*
+
+*
+
++ missen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ bedanken
+
++ spät
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ umarmen
+
++ lecker
+
+*
+
++ umarmen
+
++ missen
+
+*
+
++ klingeln
+
+*
+
++ klingeln
+
+*
+
+*
+
+*
+
+-
+
++ warten
+
++ freuen
+
+*
+
++ freuen
+
+*
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+*
+
++ wären
+
+*
+
++ legen
+
+*
+
+*
+
+-
+
+-
+
+*
+
+*
+
+& Terasse 8 0: Trasse, Terrasse, Teeasse, Teerasse, Tierasse, Rasse, Raster, Aster
+
+*
+
+*
+
+*
+
+*
+
++ bringen
+
+& Bins 14 0: Bons, Ins, Binse, Beins, Bens, Eins, Biss, Bias, Bits, Pins, Zins, Bind, Bin, Bis
+
+& Lolli 1 0: Rolli
+
+*
+
+*
+
+*
+
+& Bismarckstraße 1 0: Einbahnstraße
+
++ bellen
+
+*
+
+*
+
++ nächste
+
+*
+
++ Wein
+
+*
+
+*
+
+*
+
++ danken
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ klingeln
+
++ schenken
+
+*
+
+*
+
++ stürzen
+
+-
+
++ hoffen
+
+*
+
+*
+
++ schellen
+
+-
+
+*
+
+*
+
+*
+
++ voll
+
+*
+
+*
+
++ stellen
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ teilen
+
+-
+
+*
+
+*
+
++ hören
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+& Sooooo 1 0: Sooft
+
++ früh
+
++ hältst
+
+& Lolli 1 0: Rolli
+
+*
+
+*
+
++ anschließen
+
+*
+
+*
+
+*
+
+*
+
++ Plakat
+
++ Plakat
+
++ aufhängen
+
+*
+
+*
+
++ auf
+
+*
+
+*
+
+*
+
+*
+
++ Bild
+
++ antworten
+
+*
+
+*
+
++ verloren
+
++ wären
+
++ umarmen
+
+*
+
+*
+
+-
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ kannst
+
++ etwa
+
+*
+
+*
+
+*
+
++ legen
+
++ danken
+
++ wären
+
+*
+
++ etwa
+
++ Trösten
+
++ danken
+
++ viel
+
+*
+
+*
+
+*
+
+-
+
++ bellen
+
++ Freudenträne
+
+*
+
+*
+
+*
+
+*
+
++ umarmen
+
+*
+
+*
+
+-
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ klingeln
+
+*
+
++ zweifeln
+
+*
+
+-
+
++ Plakat
+
+*
+
+& Lollipop 1 0: Pollinie
+
++ Plakat
+
+& Weggerannt 6 0: Weg gerannt, Weg-gerannt, Weggetragen, Angerannt, Weggetan, Gerannt
+
+*
+
+-
+
+*
+
+*
+
++ stellen
+
++ an
+
+*
+
++ warten
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ wunderschön
+
+*
+
+*
+
+*
+
++ heißen
+
++ vermissen
+
++ bringen
+
+*
+
++ schön
+
++ schwand
+
++ kleben
+
+*
+
+-
+
++ ärgern
+
+*
+
+& Kannste 6 0: Kannst, Kannte, Ansteckte, Kantete, Kasten, Kante
+
+*
+
+*
+
++ seufzen
+
+*
+
++ schauen
+
++ eigen
+
+& Rausgegangen 7 0: Ausgegangen, Raus gegangen, Raus-gegangen, Drauflosgegangen, Darangegangen, Ausgegrabenen, Herangegangen
+
++ hältst
+
++ ihr
+
+*
+
+*
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+*
+
+*
+
+& Knuddelte 1 0: Trudelte
+
++ frisst
+
++ sei
+
+*
+
+*
+
++ kopieren
+
++ kopieren
+
++ hängen
+
+*
+
+*
+
++ einzig
+
+*
+
+& Runtergerollt 6 0: Runter gerollt, Runter-gerollt, Heruntergeholt, Runtergezählt, Untergestellt, Herunterpoltert
+
++ weit
+
+& Dolle 12 0: Delle, Solle, Rolle, Tolle, Dohle, Dolly, Volle, Wolle, Zolle, Jolle, Polle, Idole
+
+*
+
+*
+
+*
+
++ sagen
+
+*
+
+*
+
+*
+
++ Freud
+
++ Plakat
+
+*
+
+*
+
+& Lolli 1 0: Rolli
+
+*
+
+*
+
+-
+
+-
+
+*
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ morgen
+
++ hoffen
+
++ halb
+
+*
+
++ schenken
+
++ telefonieren
+
+*
+
+*
+
++ bedanken
+
+*
+
+*
+
++ stellen
+
++ Plakat
+
+*
+
+*
+
+*
+
+-
+
++ Plakat
+
+*
+
+*
+
++ Wein
+
+*
+
+-
+
+& Fleischklößchen 2 0: Fleischlichen, Fleischereien
+
+*
+
++ kullern
+
+*
+
+*
+
+*
+
+*
+
++ klingeln
+
+& Ciao 1 0: CIA
+
++ anrufen
+
++ umarmen
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ verschwunden
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ klingeln
+
+& Lolli 1 0: Rolli
+
++ ganz
+
+*
+
+*
+
+*
+
+*
+
++ Freud
+
++ sei
+
+-
+
+*
+
+*
+
++ umarmen
+
+*
+
+& Lolli 1 0: Rolli
+
++ springen
+
++ klingeln
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ hängen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+& Gehts 3 0: Gehst, Geht, Gehöfts
+
+*
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+-
+
++ vermissen
+
++ ihr
+
++ warten
+
+*
+
+*
+
++ rufen
+
+*
+
+*
+
++ Freud
+
++ Freudenträne
+
+& Lollipop 1 0: Pollinie
+
++ danken
+
++ fressen
+
+*
+
++ wedeln
+
+*
+
+*
+
+*
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+*
+
++ stürzen
+
+*
+
++ ein
+
+*
+
+*
+
++ brauchen
+
++ Ordnen
+
+*
+
++ danken
+
++ Freudenträne
+
+*
+
+*
+
+*
+
++ hausen
+
+*
+
+*
+
+*
+
+*
+
++ kam
+
+& Dong 4 0: Ding, Don, Dung, Gong
+
++ bedanken
+
++ voll
+
++ machen
+
+*
+
++ klingeln
+
+& Wollts 3 0: Wollt, Wollte, Wollust
+
+& Riesenlolli 2 0: Riesenrolli, Riesengroß
+
++ glücklich
+
++ hängen
+
+*
+
++ sagen
+
+*
+
+*
+
+*
+
+*
+
+& Runterfallen 7 0: -unterfallen, Runter fallen, Runter-fallen, Herunterfallen, Herunterfalle, Hinunterfallen, Heruntergefallen
+
++ weinen
+
+*
+
+*
+
++ umarmen
+
+*
+
++ Plakat
+
+*
+
+*
+
++ Plakat
+
+*
+
+*
+
+*
+
++ Freudenträne
+
+*
+
++ isst
+
++ wen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ fühlen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+*
+
++ missen
+
+-
+
+*
+
+& Juchhu 1 0: Juchze
+
++ klingeln
+
++ bellen
+
++ umarmen
+
+*
+
++ passieren
+
+*
+
+*
+
+*
+
+*
+
++ danken
+
+*
+
++ Plakat
+
++ zweifeln
+
++ erzählen
+
++ schrillen
+
+*
+
+*
+
+*
+
++ Liebe
+
+*
+
++ umarmen
+
++ küssen
+
+-
+
+*
+
++ gehen
+
++ Freud
+
+*
+
++ bringen
+
++ missen
+
++ missen
+
++ weinen
+
+*
+
++ überlegen
+
+*
+
+& Rüber 7 0: Rübe, Über, Rüben, Trüber, Drüber, Verübe, Betrübe
+
++ fliegen
+
+-
+
+*
+
+*
+
+& Vermisstenplakate 1 0: Vermisstenliste
+
++ spät
+
+-
+
++ rennen
+
+*
+
++ klingeln
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kriegen
+
+*
+
+& Klingelingeling 2 0: Angeklingelt, Alarmklingel
+
+*
+
++ Freudenträne
+
+-
+
+*
+
+*
+
+*
+
+& Hundeleckerlis 3 0: Hundeleckerli, Hundeleckerlös, Wunderlichkeit
+
++ passieren
+
++ klingeln
+
++ telefonieren
+
++ kam
+
+*
+
+*
+
++ Plakat
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Besitzer
+
++ hängen
+
++ Plakat
+
+*
+
+*
+
+-
+
+*
+
++ umarmen
+
++ dick
+
+*
+
++ wen
+
++ anrufen
+
+*
+
++ missen
+
+-
+
+& Umgefahren 6 0: Um gefahren, Um-gefahren, Aufgefahren, Gefahrenen, Ausgefahren, Umfahrenen
+
++ Überraschen
+
+*
+
+*
+
+& Smilie 1 0: Milieu
+
++ Plakat
+
+*
+
++ kleben
+
+*
+
+*
+
+*
+
++ hausen
+
++ weinen
+
++ klingeln
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+*
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kommen
+
++ verrücken
+
++ gucken
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ wen
+
++ telefonieren
+
++ freuen
+
++ klingeln
+
++ schauen
+
+*
+
+*
+
+*
+
+& Vermisstenplakate 1 0: Vermisstenliste
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ welch
+
+*
+
+-
+
+*
+
+*
+
++ kein
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ möchten
+
+*
+
+*
+
+*
+
+*
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+*
+
++ Tag
+
++ rutschen
+
++ Rutsch
+
++ klingeln
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
++ Freund
+
+*
+
+*
+
+*
+
+*
+
++ hängen
+
++ Plakat
+
+*
+
+*
+
+*
+
+*
+
++ klingeln
+
++ fremd
+
+*
+
++ telefonieren
+
++ wollen
+
+*
+
+*
+
++ Portion
+
++ morgen
+
+*
+
++ schreiben
+
+*
+
++ warten
+
+*
+
+& Dadrauf 5 0: Darauf, Da drauf, Da-drauf, Drauf, Radau
+
+*
+
+*
+
+-
+
+-
+
+*
+
++ öffnen
+
+*
+
+*
+
++ wusste
+
+*
+
+& Na 7 0: Ja, Da, NS, NT, NL, Nah, An
+
+*
+
+& Gehts 3 0: Gehst, Geht, Gehöfts
+
++ umarmen
+
++ Freudenträne
+
+*
+
+*
+
+*
+
+& Lollipop 1 0: Pollinie
+
++ Plakat
+
++ hatte
+
+*
+
+*
+
+-
+
+*
+
+-
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ möchten
+
+-
+
+*
+
+*
+
+& Kuck 6 0: Guck, Zuck, Ruck, Kick, Keck, Kuckuck
+
+*
+
++ missen
+
+& Plz 3 0: PLZ, Pelz, Pilz
+
+*
+
+*
+
+-
+
++ missen
+
+-
+
++ missen
+
++ warten
+
+*
+
++ Rat
+
++ meist
+
++ nächste
+
+*
+
+*
+
+*
+
++ wackeln
+
+*
+
+*
+
+*
+
++ erfahren
+
++ stehen
+
++ schenken
+
++ all
+
+*
+
+& Kacke 10 0: Sacke, Packe, Hacke, Backe, Jacke, Lacke, Macke, Knacke, Kecke, Kicke
+
++ Tropf
+
++ heißen
+
+-
+
+*
+
++ annimmt
+
+*
+
+*
+
+*
+
++ futtern
+
+*
+
++ Nachricht
+
++ einen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ warten
+
++ schellen
+
+*
+
++ stecken
+
+*
+
+*
+
++ nett
+
+*
+
++ kommen
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ Plakat
+
++ fragen
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ anrufen
+
++ rufen
+
+*
+
+*
+
+*
+
+*
+
++ kommen
+
+*
+
+*
+
+-
+
++ warten
+
++ sagen
+
++ dein
+
+*
+
+*
+
++ läuft
+
++ stürzen
+
+& Mordshunger 2 0: Mordhunger, Mordsmäßiger
+
++ schlimm
+
+*
+
++ etwa
+
++ gruslig
+
+*
+
+-
+
+-
+
+*
+
+*
+
+*
+
++ sagen
+
+*
+
+*
+
++ missen
+
+*
+
+*
+
++ all
+
+-
+
+*
+
++ Vermisstenanzeige
+
+*
+
+-
+
+*
+
+-
+
++ heben
+
++ glücklich
+
+*
+
+*
+
++ schellen
+
++ strahlen
+
++ umarmen
+
+*
+
++ freuen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ waren
+
+*
+
+& Bell 13 0: Beil, Bill, Ball, Bull, Pell, Hell, Dell, Fell, Belle, Bellt, Gebell, Rebell, Belebe
+
++ hören
+
+*
+
+*
+
+-
+
+*
+
++ warten
+
+*
+
+*
+
++ warten
+
+*
+
+*
+
++ ganz
+
+& Nunmal 4 0: Neunmal, Nun mal, Nun-mal, Manual
+
+*
+
++ missen
+
+*
+
++ Plakat
+
++ warten
+
+*
+
+& Happy 1 0: Happyend
+
++ lieben
+
+*
+
+*
+
++ telefonieren
+
+*
+
+*
+
+*
+
+& Jippie 1 0: Hippie
+
++ hat
+
+& Kuck 6 0: Guck, Zuck, Ruck, Kick, Keck, Kuckuck
+
+*
+
++ Fall
+
++ groß
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& -Schule 9 4: -schule, Schule, schule, -schulen, -schale, -schute, -schuld, -schuhe, -schulei
+
+*
+
+*
+
+*
+
++ nächste
+
+-
+
++ enttäuschen
+
++ heben
+
++ gucken
+
+*
+
++ sollen
+
++ schütteln
+
+& Doll 10 0: Dill, Dolly, Dell, Soll, Roll, Toll, Voll, Moll, Zoll, Dollar
+
+*
+
+*
+
++ an
+
+& Gehockt 4 0: Gekocht, Gehackt, Gelockt, Geschockt
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ passieren
+
+-
+
+*
+
+*
+
++ weinen
+
+*
+
+*
+
+*
+
++ strahlen
+
+*
+
+*
+
+*
+
++ rufen
+
+*
+
+*
+
+& Buddeln 1 0: Nudeln
+
++ viel
+
++ Anruf
+
++ weinen
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
++ Bonbon
+
+*
+
++ klingeln
+
+& Knabberessen 3 0: Knabber essen, Knabber-essen, Abknabbern
+
+*
+
+*
+
++ Plakat
+
+*
+
+*
+
+*
+
+*
+
++ ein
+
+& Lollipop 1 0: Pollinie
+
+*
+
+*
+
++ finden
+
++ bringen
+
++ bringen
+
+*
+
+*
+
++ beruhigen
+
+*
+
+-
+
+*
+
++ sagen
+
++ bringen
+
+*
+
+*
+
++ hoffen
+
++ schenken
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ früh
+
++ fällen
+
+*
+
+*
+
+*
+
++ allerbeste
+
+*
+
+*
+
+-
+
+*
+
++ kriegen
+
+*
+
++ zapplig
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ zeigen
+
+*
+
++ ein
+
+*
+
++ können
+
+*
+
+*
+
++ überraschen
+
+*
+
++ kommen
+
+*
+
+*
+
+& Mathe 4 0: Matte, Mache, Thema, Heimat
+
++ kommen
+
+*
+
++ Lehrer
+
++ freuen
+
+*
+
+*
+
+*
+
++ fliegen
+
++ dick
+
+& Knuddelig 1 0: Sudelig
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Rausgekuckt 4 0: Ausgedruckt, Ausgespuckt, Herausgerückt, Ausgestreckt
+
++ saß
+
++ erschrecken
+
+*
+
+*
+
++ schlüpfen
+
++ Lehrer
+
++ schimpfen
+
++ bringen
+
+*
+
+*
+
+& Wegzubringen 9 0: Weg zubringen, Weg-zubringen, Webzugringen, Wegzubringern, Wegzugbringen, Einzubringen, Beizubringen, Wegbringen, Herzubringen
+
+*
+
+*
+
++ fragen
+
+*
+
+& Matheaufgaben 1 0: Draufgaben
+
++ hören
+
++ finden
+
+*
+
+*
+
++ Lehrer
+
+-
+
++ überraschen
+
++ stupsen
+
+*
+
+*
+
++ bellen
+
+*
+
++ meckern
+
++ lecken
+
+*
+
++ schwand
+
+& Knuddelte 1 0: Trudelte
+
+*
+
+*
+
++ brauchen
+
+*
+
+*
+
++ Wolle
+
+*
+
+*
+
+*
+
++ schämen
+
++ Lehrer
+
+& Mathe 4 0: Matte, Mache, Thema, Heimat
+
++ zappeln
+
++ murmeln
+
+*
+
++ erschrak
+
+-
+
++ Lehrer
+
+*
+
+*
+
+*
+
++ stecken
+
++ stecken
+
++ lieben
+
+-
+
++ kannst
+
++ beide
+
+*
+
++ schleichen
+
+*
+
+& Erwisch 12 0: Erdwisch, Erbwisch, Erzwisch, Erwische, Erwischt, Verwisch, Er wisch, Er-wisch, Wischer, Kehrwisch, Wienerisch, Herrisch
+
+*
+
++ Lehrer
+
+*
+
+*
+
+*
+
+*
+
++ warten
+
+*
+
++ stottern
+
+*
+
+& Gibts 3 0: Gifts, Gibst, Gibt
+
+*
+
++ passieren
+
+*
+
+*
+
+-
+
++ quatschen
+
+*
+
+*
+
++ beschäftigen
+
++ merken
+
++ krabbeln
+
+*
+
++ winken
+
+*
+
++ hüpfen
+
+& Mathetest 1 0: Mathematisch
+
+*
+
++ bedingt
+
+*
+
+-
+
++ begrüßen
+
+& Mathetest 1 0: Mathematisch
+
+*
+
+*
+
++ wusste
+
+*
+
+*
+
++ rechnen
+
+*
+
++ Lehrer
+
++ Schwierigkeit
+
+*
+
++ Arm
+
+*
+
++ fragen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ schmuggeln
+
++ nimmt
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ klappen
+
+*
+
++ finden
+
+*
+
+*
+
+& Vors 6 0: Vers, Tors, Vor-, Vor, Vorn, Vorm
+
++ hören
+
++ hören
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ meinen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ konzentrieren
+
+*
+
+*
+
++ Lehrer
+
+*
+
++ Verrat
+
+*
+
++ gucken
+
+*
+
+*
+
++ beginnen
+
++ stecken
+
+*
+
+*
+
+*
+
+*
+
++ nicht
+
+*
+
+& Weggeflogen 8 0: Weg geflogen, Weg-geflogen, Weggefolgen, Weggeologen, Weitergeflogen, Weggefangenen, Weggefangen, Weggefallenen
+
+*
+
+*
+
++ missen
+
+*
+
+*
+
++ andere
+
+& Rausschleichen 3 0: Rauschleichen, Raus schleichen, Raus-schleichen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Dadrin 4 0: Darin, Da drin, Da-drin, Drin
+
++ schlecken
+
++ rücken
+
+-
+
++ all
+
++ lächeln
+
+*
+
+& Gekuschelt 5 0: Getuschelt, Kuschelt, Gekachelt, Geschellt, Geheuchelt
+
++ versteckt
+
+*
+
+-
+
+& Kuck 6 0: Guck, Zuck, Ruck, Kick, Keck, Kuckuck
+
+*
+
+-
+
+*
+
+*
+
+-
+
+*
+
++ Arbeit
+
+*
+
++ Lehrer
+
+*
+
+-
+
++ nächste
+
+*
+
++ verabreden
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Mathe 4 0: Matte, Mache, Thema, Heimat
+
+*
+
++ Lehrer
+
+*
+
+*
+
++ anbellen
+
++ schämen
+
++ begrüßen
+
++ bringen
+
+*
+
++ gucken
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Gequatsche 5 0: Bequatsche, Quatschige, Quatsche, Gequetschte, Bequatsch
+
+*
+
+*
+
+& Gekrabbelt 2 0: Krabbelt, Gekabelt
+
+*
+
+*
+
+*
+
+*
+
++ Lehrer
+
++ Lehrer
+
++ scheuchen
+
++ Lehrer
+
+*
+
++ kriegen
+
+*
+
+& Ausbüxt 1 0: Ausbürste
+
+*
+
+*
+
++ machen
+
+*
+
+-
+
++ fragen
+
+*
+
++ stecken
+
++ freuen
+
++ Lehrer
+
+& Fritzchen 1 0: Frechheiten
+
+*
+
+*
+
+*
+
+*
+
++ lächeln
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+& Ensen 10 0: Enden, Einsen, Essen, Eisen, Enten, Engen, Trensen, Konsens, Senken, Seitens
+
+*
+
+*
+
+*
+
+*
+
+& Nasenstupser 2 0: Stupsnasiger, Stupsnase
+
+& Mathe 4 0: Matte, Mache, Thema, Heimat
+
++ andauern
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+& Mathe 4 0: Matte, Mache, Thema, Heimat
+
+*
+
++ bellen
+
++ bellen
+
+-
+
+*
+
+*
+
++ suchen
+
+*
+
++ freuen
+
+*
+
++ machen
+
++ Ware
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ entdecken
+
+*
+
++ klopfen
+
+& Schaubek 4 0: Schaubeo, Schraube, Schnaube, Beschaue
+
+*
+
++ rechnen
+
+& Rausgeschlichen 6 0: Raus geschlichen, Raus-geschlichen, Herangeschlichen, Herausgeschlagen, Herumgeschlichen, Herausgeschickten
+
+*
+
++ jagen
+
++ Lehrer
+
+*
+
++ erschrecken
+
++ lachen
+
+*
+
++ zeigen
+
+& Gequasselt 1 0: Gerasselt
+
+*
+
+& Mathetest 1 0: Mathematisch
+
+*
+
++ begrüßen
+
+*
+
+*
+
+*
+
+& Madam 3 0: Adam, MAD, Mama
+
+*
+
+*
+
+*
+
+*
+
++ bellen
+
+& Kuck 6 0: Guck, Zuck, Ruck, Kick, Keck, Kuckuck
+
++ Ware
+
+*
+
+*
+
+*
+
++ ging
+
++ bemerkt
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ nehmen
+
+*
+
++ winken
+
+*
+
++ Lehrer
+
+& Pinke-Pane 10 0: Pike-Pane, Sinke-Pane, Pinie-Pane, Pinne-Pane, Linke-Pane, Hinke-Pane, Winke-Pane, Zinke-Pane, Picke-Pane, Pinakothek
+
++ wetten
+
+*
+
+*
+
++ murmeln
+
++ entschuldigen
+
++ nächste
+
++ wundern
+
+& Nen 14 0: Neon, Den, Gen, New, Wen, Ren, Ben, Yen, Nein, Neun, Neu, Nun, Nenne, Nennen
+
+*
+
++ zeigen
+
+*
+
++ sagen
+
+*
+
++ begrüßen
+
++ spät
+
+& Mathe 4 0: Matte, Mache, Thema, Heimat
+
+*
+
+*
+
+& Hats 11 0: Halts, Hass, Hais, Hits, Hans, Hals, Haus, Huts, Rats, Hast, Hat
+
+*
+
++ ihr
+
+*
+
++ weggehen
+
++ Lehrer
+
++ Lehrer
+
++ überzeugen
+
+*
+
+*
+
++ tun
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ erstaunen
+
+*
+
++ erstaunen
+
+*
+
+& Dolle 12 0: Delle, Solle, Rolle, Tolle, Dohle, Dolly, Volle, Wolle, Zolle, Jolle, Polle, Idole
+
++ konzentrieren
+
+*
+
+*
+
+& Bell 13 0: Beil, Bill, Ball, Bull, Pell, Hell, Dell, Fell, Belle, Bellt, Gebell, Rebell, Belebe
+
+*
+
++ Lehrer
+
++ faszinieren
+
++ tun
+
+*
+
++ nicht
+
++ passieren
+
+*
+
+*
+
+*
+
+& Mathearbeit 4 0: Teamarbeit, Bearbeiter, Bearbeitet, Bearbeite
+
++ strecken
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ wollen
+
+*
+
+*
+
+*
+
++ halten
+
+*
+
+*
+
+*
+
++ sein
+
+*
+
++ mögen
+
++ Sieb
+
+*
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+*
+
+*
+
++ zeigen
+
++ lecken
+
+*
+
++ wundern
+
++ hat
+
+*
+
++ Lehrer
+
++ rechnen
+
+*
+
++ rechnen
+
++ bellen
+
+*
+
+*
+
+*
+
++ merken
+
++ Lehrer
+
++ Weg
+
++ Lehrer
+
++ beißen
+
++ kichern
+
++ kommen
+
++ stupsen
+
++ sein
+
+*
+
+*
+
+*
+
+*
+
++ Lehrer
+
+*
+
+& Matheblatt 1 0: Mathematik
+
++ kriegen
+
+*
+
+& Pinckeponk 1 0: Pontonbrücke
+
+& Knuddelten 1 0: Trudelten
+
++ auffällig
+
+& Gekackt 5 0: Geknackt, Gesackt, Gepackt, Gehackt, Gekachelt
+
++ kommen
+
+*
+
+& Mathe-Aufgaben 5 0: Matte-Aufgaben, Mache-Aufgaben, Thema-Aufgaben, Heimat-Aufgaben, Mathematischen
+
+*
+
+*
+
+*
+
++ merken
+
+*
+
++ laut
+
+*
+
+*
+
+*
+
++ sagen
+
+*
+
+*
+
++ sagen
+
+*
+
+*
+
++ beginnen
+
+*
+
++ Lehrer
+
+*
+
+-
+
++ Hände
+
++ öffnen
+
++ gucken
+
+*
+
+*
+
++ halten
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ erschrecken
+
+*
+
+& Ah 15 0: Eh, Ar, Oh, Au, Sh, AI, AT, Ch, AG, Ph, Sah, Nah, Ach, An, Ad
+
+& Dummie 1 0: Dumme
+
+*
+
++ stecken
+
+*
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
++ Entschuldigen
+
++ missen
+
+& Dudika 1 0: Judikativ
+
++ heißen
+
+*
+
+*
+
++ kriegen
+
+& Mathetest 1 0: Mathematisch
+
+& Mathebuch 1 0: Mathematisch
+
+& Matheaufgabe 1 0: Mathematische
+
+-
+
+& Knobelaufgabe 3 0: Knebelaufgabe, -nobelaufgabe, Ausgeknobelte
+
+*
+
+*
+
+*
+
+& Geschmust 4 0: Geschmuggelt, Geschleust, Geschustert, Geschubst
+
+*
+
+-
+
++ konzentrieren
+
++ Lehrer
+
+*
+
++ begrüßen
+
+*
+
+*
+
++ Lehrer
+
++ Lehrer
+
+-
+
++ winken
+
++ winken
+
++ allein
+
+-
+
+*
+
+*
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+*
+
+*
+
+*
+
++ hören
+
+*
+
+*
+
+*
+
++ antworten
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Lehrer
+
+-
+
++ glücklich
+
++ wollen
+
+*
+
++ kapieren
+
++ musste
+
+*
+
++ süß
+
+*
+
++ morgen
+
++ trauen
+
+*
+
++ schleichen
+
+*
+
+*
+
++ keuchen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ nehmen
+
++ merken
+
++ springen
+
++ Lehrer
+
++ schämen
+
+*
+
+& Kucken 8 0: Jucken, Ducken, Gucken, Kuchen, Zucken, Kicken, Kecken, Kuckuck
+
+*
+
++ erschrecken
+
+*
+
+*
+
++ Hände
+
+*
+
+*
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
+*
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
+*
+
+*
+
++ süß
+
+& Rumbellt 4 0: Rum bellt, Rum-bellt, Brummelt, Rubbelt
+
++ Lehrer
+
++ überraschen
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ anbellen
+
++ quatschen
+
+*
+
+*
+
+*
+
++ freuen
+
+*
+
+*
+
+& Mathetest 1 0: Mathematisch
+
+*
+
+& Matheaufgaben 1 0: Draufgaben
+
++ drehen
+
++ schlecken
+
++ beeilen
+
+*
+
+*
+
+*
+
+*
+
++ flüstern
+
++ früh
+
+*
+
+*
+
+*
+
+*
+
+& Büxt 4 0: Bütt, Boxt, Bükt, Büßt
+
+*
+
++ Fax
+
+*
+
+*
+
++ Lehrer
+
+*
+
+*
+
+*
+
+& Knuddelt 1 0: Gebuddelt
+
++ schleichen
+
+*
+
++ Lehrer
+
+*
+
+*
+
++ Lehrer
+
+*
+
++ klettern
+
++ lächeln
+
+& Gehts 3 0: Gehst, Geht, Gehöfts
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Krieg
+
++ hausen
+
+*
+
++ krabbeln
+
+*
+
+*
+
+*
+
++ kannst
+
+& Schleich 9 0: Scheich, Schlich, Schleiche, Schleicht, Schliche, Schleichweg, Schlesisch, Schleiße, Schleife
+
+*
+
++ darfst
+
+& Hey 4 0: Heu, He, Hedy, Her
+
+*
+
+*
+
++ Arbeit
+
+*
+
+*
+
++ kriegen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ dauern
+
+*
+
+*
+
++ all
+
++ stecken
+
++ passieren
+
+& Kaputtgelacht 7 0: Kaputtgemacht, Kaputt gelacht, Kaputt-gelacht, Kaputtgeschlagen, Kaputtgeht, Kaputtschlage, Kaputtmacht
+
++ Fett
+
+*
+
+*
+
++ Lehrer
+
+*
+
++ rechnen
+
+*
+
+*
+
+*
+
++ überraschen
+
++ heißen
+
++ antworten
+
+*
+
+*
+
++ antworten
+
+*
+
++ beantworten
+
++ hüpfen
+
+& Pscht 3 0: Pacht, Puscht, Pocht
+
+*
+
+& Zeigts 4 0: Zeigst, Zeigt, Zeigte, Zeigers
+
++ lecken
+
+*
+
++ bekommen
+
++ riesig
+
+*
+
++ Lehrer
+
+*
+
++ nehmen
+
+*
+
++ Klasse
+
+*
+
++ anbellen
+
+*
+
++ aufwachen
+
+& Gerubbelt 2 0: Rubbelt, Gejubelt
+
+*
+
++ wundern
+
+*
+
+*
+
++ nächste
+
++ merken
+
+*
+
+*
+
++ lugen
+
+*
+
+*
+
++ kichern
+
+*
+
+*
+
+*
+
++ Ordnen
+
+*
+
+*
+
+*
+
+*
+
++ rechnen
+
++ setzen
+
+*
+
+*
+
+& Pennte 1 0: Penner
+
+*
+
+*
+
++ lächeln
+
++ beschäftigen
+
++ möchten
+
++ merken
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ kitzeln
+
++ spät
+
++ bellen
+
+-
+
+*
+
+*
+
++ konzentrieren
+
+& Matheunterricht 3 0: Unterrichtet, Unterrichten, Unterrichte
+
+& Reinkuckte 1 0: Reinkultur
+
+*
+
++ scheuchen
+
++ winken
+
+-
+
+-
+
+*
+
+*
+
++ zeigen
+
+*
+
+*
+
++ dick
+
+*
+
+-
+
+*
+
+*
+
+*
+
+& Rausgenommen 7 0: Ausgenommen, Raus genommen, Raus-genommen, Herausgekommen, Ausgekommen, Aufgenommenen, Aufgenommen
+
++ Ware
+
++ bereit
+
++ kriegen
+
+*
+
+& Rausschleichen 3 0: Rauschleichen, Raus schleichen, Raus-schleichen
+
+-
+
++ Überraschen
+
++ Überraschen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ rechnen
+
+*
+
++ fragen
+
+*
+
+*
+
++ hören
+
++ hören
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ springen
+
+*
+
++ dies
+
+*
+
+*
+
++ wollen
+
+*
+
++ hausen
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ müssen
+
++ beschäftigen
+
+*
+
+*
+
+*
+
++ nimmt
+
+*
+
+*
+
+*
+
+& Marmeladen 2 0: Marmelade, Umarmenden
+
+*
+
+*
+
+*
+
+& Berühmtheitsshow 1 0: Unberührtheit
+
+*
+
++ kriegen
+
++ Freund
+
++ klingeln
+
+*
+
+*
+
+*
+
+& Mathelehrerin 2 0: Mathematikerin, Lateinlehrer
+
+& Alienvögel 4 0: Asienvögel, Altenvögel, Alpenvögel, Kanarienvögel
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ da
+
+*
+
++ Lehrer
+
++ freuen
+
++ stecken
+
++ ihr
+
+*
+
+*
+
+*
+
++ schämen
+
+*
+
++ enttäuschen
+
+*
+
++ ging
+
+*
+
+*
+
++ wunderschön
+
++ flüstern
+
+& Kuck 6 0: Guck, Zuck, Ruck, Kick, Keck, Kuckuck
+
++ freuen
+
+*
+
++ flüstern
+
++ zeigen
+
+& T-Shirt 2 0: T-Hirte, Sweatshirt
+
+*
+
+*
+
+*
+
+*
+
++ bringen
+
+*
+
++ Tier
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ Lehrer
+
+*
+
+*
+
+*
+
++ Überraschen
+
+*
+
+*
+
++ sollen
+
+*
+
+*
+
++ weggehen
+
++ lächeln
+
++ Namen
+
++ erwidern
+
+*
+
+& Ranzuschleichen 4 0: Heranschleichen, Heranschleiche, Hinausschleichen, Daherschleichen
+
+*
+
++ heißen
+
+*
+
+*
+
+*
+
+& Knuddelte 1 0: Trudelte
+
++ lecken
+
+*
+
++ sagen
+
+& Rausgeht 7 0: Ausgeht, Raus geht, Raus-geht, Rausgesucht, Ausgedreht, Herausgehe, Ausgeruht
+
++ Grad
+
++ kriechen
+
++ sagen
+
+*
+
+*
+
++ bellen
+
+*
+
+*
+
+*
+
+*
+
++ lachen
+
++ konnte
+
+*
+
++ spielen
+
+*
+
++ spielen
+
+*
+
++ Pfote
+
+*
+
+*
+
+*
+
++ stecken
+
+*
+
+*
+
+*
+
+*
+
++ Lehrer
+
+*
+
+*
+
++ erst
+
+*
+
++ nächste
+
++ stimmen
+
++ bellen
+
+-
+
+*
+
+-
+
++ schließen
+
+*
+
+*
+
+*
+
+*
+
++ quatschen
+
+*
+
+*
+
+*
+
++ strecken
+
+*
+
++ brüllen
+
++ fliegen
+
+*
+
+*
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
+*
+
++ sollen
+
+*
+
+-
+
+*
+
++ Nase
+
+*
+
++ können
+
+-
+
++ merken
+
++ Lehrer
+
+*
+
+*
+
+*
+
++ Entschuldigen
+
+*
+
+& Entdeck 3 0: Enddeck, Entdecke, Entdeckt
+
++ dies
+
++ bringen
+
++ sagen
+
+*
+
+*
+
+& Matheaufgabe 1 0: Mathematische
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kannst
+
++ Lehrer
+
+*
+
+*
+
++ hecheln
+
++ reden
+
+*
+
+*
+
+& Angerast 9 0: Angelrast, Anglerast, Angelast, Ankerast, Angeraut, Angerannt, Angeraten, Angereist, Anprangerst
+
+*
+
+*
+
+*
+
++ begrüßen
+
++ lecken
+
+-
+
+*
+
+& Erschrick 5 0: Erschrickt, Erschrecke, Verschicke, Erschlich, Schickeria
+
++ hältst
+
+*
+
+*
+
+*
+
+*
+
++ abhauen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ halten
+
++ holen
+
+& Hagelman 13 0: Hagel man, Hagel-man, Hagelmain, Hagelmann, Hagelsan, Hagelmai, Hagelmal, Hagelfan, Hagelmaß, Hageln, Hangeln, Hangel, Mangel
+
+*
+
++ bringen
+
+*
+
++ holen
+
+*
+
+-
+
+*
+
+*
+
++ ein
+
+*
+
++ passen
+
+*
+
++ setzen
+
+*
+
++ nächste
+
+*
+
++ schnuppern
+
++ bemerkt
+
+*
+
+*
+
+*
+
+*
+
++ rufen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ vergessen
+
+*
+
++ sitzen
+
++ steigen
+
+-
+
+& Angekuckt 5 0: Angeguckt, Angespuckt, Angeklickt, Angepackt, Anguckt
+
++ zeigen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ merken
+
+*
+
+-
+
+& Gequatscht 6 0: Bequatscht, Gequetscht, Gequietscht, Bequatsch, Quatscht, Gelatscht
+
+*
+
+*
+
+& Hundesaloon 2 0: Hundesalon, Hundertmal
+
+*
+
+*
+
++ lief
+
++ wären
+
++ verabschieden
+
+-
+
++ Bus
+
+*
+
+*
+
+*
+
+& Fundladengeschäft 6 0: Funkladengeschäft, Rundladengeschäft, Mundladengeschäft, Wundladengeschäft, Fassadengeschäft, Geschäftsschädigend
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ nimmt
+
+*
+
++ stoppen
+
+*
+
+*
+
+*
+
++ vergessen
+
+& Hochgenommen 9 0: Hoch genommen, Hoch-genommen, Hochgenomen, Hochgenammen, Hochgekommen, Hochkommen, Hochgezogenen, Hochgelegenen, Hergenommenen
+
+*
+
+*
+
++ Besitzer
+
+*
+
+*
+
+*
+
+*
+
+& Losfuhr 3 0: Los fuhr, Los-fuhr, Losfahre
+
+*
+
++ Sitz
+
+*
+
+& Streck 10 0: Strecke, Streck-, Streik, Strick, Streckt, Astreck, Ostreck, Trecke, Trecker, Stecker
+
++ merkwürdig
+
++ sitzen
+
+*
+
+*
+
++ merkwürdig
+
+*
+
++ verloren
+
+*
+
+*
+
+*
+
+*
+
++ zeigen
+
++ suchen
+
++ schaffen
+
+*
+
+*
+
+*
+
+*
+
++ viel
+
+*
+
+*
+
++ nächste
+
+*
+
+*
+
+& Fundgrubenladen 7 0: Fundgruben laden, Fundgruben-laden, Funkgrubenladen, Rundgrubenladen, Mundgrubenladen, Wundgrubenladen, Schlafraubenden
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ nächste
+
+-
+
+*
+
+*
+
+*
+
++ ihr
+
+*
+
+*
+
++ letzte
+
++ Stiege
+
++ Stiege
+
+*
+
+*
+
+*
+
+*
+
++ alt
+
+*
+
+*
+
+*
+
++ kaufen
+
+*
+
++ verloren
+
++ winken
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ vergisst
+
+*
+
+-
+
++ Sache
+
+& Hingetan 6 0: Hin getan, Hin-getan, Hinzugetan, Hingegangen, Angetan, Hingang
+
+*
+
+*
+
+*
+
+*
+
++ schaffen
+
++ nicht
+
++ älter
+
+*
+
+*
+
++ vergessen
+
+*
+
+& Gewundert 6 0: Bewundert, Gewandert, Gewunden, Verwundert, Wundertätig, Wundert
+
++ schnell
+
+*
+
++ wiederbekommen
+
+*
+
++ verschwunden
+
+-
+
+*
+
++ alt
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Gefahr
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kriegen
+
++ älter
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Wiedergekriegt 6 0: Wieder gekriegt, Wieder-gekriegt, Wiederkriegt, Wiederkriege, Wiedergekehrt, Wiedergekäut
+
++ Schritt
+
+-
+
++ stoppen
+
++ herrlich
+
+-
+
+*
+
+*
+
+*
+
++ willst
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Fundladen 10 0: Fund laden, Fund-laden, Funkladen, Rundladen, Mundladen, Wundladen, Neufundland, Aufladenden, Umladenden, Entladenden
+
+*
+
+*
+
++ merkwürdig
+
++ fassen
+
++ verabschieden
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Pillepalle 1 0: Parallele
+
+*
+
+*
+
++ kriegen
+
++ holen
+
+*
+
+*
+
+*
+
++ Freund
+
+& Fundsachenbüro 1 0: Nachempfunden
+
+*
+
+*
+
+*
+
+*
+
++ winken
+
+*
+
+& Shit 3 0: -hit, Seit, Schiit
+
+*
+
+-
+
+*
+
+*
+
++ klopfen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ beschreiben
+
+*
+
+*
+
+& T-Shirt 2 0: T-Hirte, Sweatshirt
+
+*
+
+*
+
++ Fundbüro
+
++ kürzest
+
++ erinnern
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ weit
+
+*
+
+*
+
+*
+
++ ging
+
++ anhältst
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ sonnig
+
+-
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+-
+
++ kriegen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kriegen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ erreichen
+
+*
+
+*
+
+-
+
+& Wegfuhr 6 0: Weg fuhr, Weg-fuhr, Weguhr, Wegfuhre, Wegruhr, Wegfahre
+
+*
+
++ nächste
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ gucken
+
+& Hinterhergerannt 6 0: Hinterher gerannt, Hinterher-gerannt, Hinterherranntet, Hinterherrannte, Hinterherrennt, Hinterherrennen
+
++ konnte
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ vorbeikommen
+
+*
+
++ saß
+
++ stoppen
+
+*
+
++ nächste
+
+-
+
+*
+
+-
+
++ viel
+
+*
+
++ weilen
+
++ freuen
+
+*
+
+*
+
++ sonnig
+
+-
+
+*
+
+*
+
+*
+
++ nächste
+
+& Fundbüromann 5 0: Funkbüromann, Rundbüromann, Mundbüromann, Wundbüromann, Fundbüro
+
+*
+
+*
+
+*
+
++ behalten
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ stehlen
+
+-
+
++ legen
+
+*
+
+& End 7 0: Ende, End-, Eid, Und, Den, Eng, Elend
+
+*
+
+*
+
+& Angeschauen 6 0: Angelschauen, Angeschauten, Angeschaut, Angeschafften, Angeschnauzten, Angeschlagen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ winken
+
+-
+
+*
+
+*
+
+& Fundbüromann 5 0: Funkbüromann, Rundbüromann, Mundbüromann, Wundbüromann, Fundbüro
+
+*
+
+*
+
+*
+
+*
+
++ gucken
+
++ ganz
+
+*
+
+-
+
+*
+
++ spät
+
+*
+
+*
+
+*
+
++ da
+
++ konzentrieren
+
+*
+
+*
+
+*
+
++ ihr
+
++ waren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ langen
+
+*
+
+*
+
++ gibt
+
+*
+
+*
+
+& Hautfarbig 3 0: Haut farbig, Haut-farbig, Buntfarbig
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Sitz
+
++ winken
+
+*
+
+*
+
+*
+
+-
+
++ Minute
+
++ hatte
+
+*
+
++ gucken
+
++ steigen
+
+*
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
++ verloren
+
+*
+
+*
+
+*
+
+*
+
++ verletzen
+
++ merkwürdig
+
+*
+
++ passieren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ genießen
+
+*
+
+*
+
+& Herumwedelt 3 0: Herum wedelt, Herum-wedelt, Herumwirbelt
+
++ suchen
+
++ schaffen
+
+*
+
+*
+
+*
+
++ stolpern
+
+*
+
+*
+
+*
+
++ Namen
+
+*
+
++ klopfen
+
+-
+
+*
+
+*
+
+*
+
++ Entschuldigen
+
++ viel
+
++ viel
+
++ sitzen
+
++ begrüßen
+
+*
+
+*
+
+*
+
++ wirren
+
+*
+
+*
+
+*
+
++ Haar
+
+*
+
+*
+
++ vergessen
+
+*
+
++ meinen
+
++ winken
+
+*
+
+*
+
+*
+
+*
+
++ ihr
+
+*
+
+*
+
++ viel
+
+*
+
++ gucken
+
+*
+
+*
+
+*
+
+*
+
++ genießen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ durch
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ älter
+
+*
+
+*
+
+*
+
+*
+
++ merken
+
+*
+
+*
+
++ Link
+
++ dröhnen
+
++ zerren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ ein
+
++ da
+
++ neunjährig
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Hochgehoben 6 0: Hoch gehoben, Hoch-gehoben, Hochgehen, Hochgelobten, Hochgehalten, Hochgezogenen
+
+*
+
+*
+
+*
+
++ kontrollieren
+
+*
+
+*
+
++ strahlen
+
++ erschöpfen
+
+*
+
++ schleppen
+
+& Steigte 9 0: Steige, Steigtee, Steifte, Steigre, Steigt, Stetige, Steinigte, Steig, Steinige
+
+*
+
+*
+
++ vergessen
+
++ nimmt
+
+*
+
++ beschäftigen
+
++ merken
+
++ nützen
+
+*
+
++ enttäuschen
+
+*
+
++ älter
+
+*
+
+*
+
+*
+
+& Verlier 10 0: Verlies, Verliere, Verliert, Verlieh, Verlief, Verzier, verließ, Verlierer, Verliebe, Verleiher
+
+& Reingestiegen 7 0: Eingestiegen, Rein gestiegen, Rein-gestiegen, Angestiegenen, Eingestreuten, Angestiegen, Reinvestieren
+
+*
+
+*
+
+*
+
+*
+
++ heften
+
+-
+
+*
+
+& Gelb-Orangenen 13 0: Gelb-Orangen, Gelb-Orangenren, Gelb-Orangengen, Gelb-Organgenen, Gelb-Urangenen, Gelb-Krangenen, Gelb-Orangefarbenen, Gelb-Vorangegangenen, Gelb-Orangefarben, Gelb-Vorangegangen, Vorangegangenen, Orangefarbenen, Angeworbenen
+
+# Blau-Rot-Gelb-Farbenen 0
+
++ Haar
+
+& Bekomm 2 0: Bekomme, Bekommt
+
+*
+
+*
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+*
+
+*
+
++ verschwunden
+
++ nächste
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+& Angekuckt 5 0: Angeguckt, Angespuckt, Angeklickt, Angepackt, Anguckt
+
++ älter
+
+*
+
+& Gekuckt 5 0: Gejuckt, Geduckt, Geguckt, Gezuckt, Gedruckt
+
+*
+
+*
+
++ winken
+
+*
+
+*
+
+*
+
+*
+
++ dies
+
+*
+
+*
+
+& Kusshauer 4 0: Kurshauer, Nusshauer, Gusshauer, Kusshand
+
+& Amberkamp 1 0: Überkam
+
++ danken
+
++ vergessen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ steigen
+
++ Schritt
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
+*
+
+& Heb 11 0: He, Hieb, Hab, Heu, Hub, Web, Hebe, Herb, Hebt, Her, Hob
+
+*
+
+*
+
+*
+
+& Friederik 2 0: Frieden, Friede
+
++ verschwunden
+
++ Sache
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ waren
+
+*
+
++ erwidern
+
+*
+
+*
+
+*
+
++ klopfen
+
+*
+
++ kriegen
+
++ weggelaufen
+
+*
+
+-
+
++ Geschichte
+
++ rannte
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Schritt
+
++ fragen
+
+*
+
++ kriegen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ beide
+
++ kriegen
+
+*
+
++ Halt
+
+*
+
+*
+
+*
+
++ spät
+
+*
+
+*
+
++ normal
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ waren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ bedanken
+
++ weilen
+
++ seufzen
+
+*
+
+*
+
++ männlich
+
++ nicken
+
+*
+
+-
+
+*
+
+*
+
+& Fundbüromann 5 0: Funkbüromann, Rundbüromann, Mundbüromann, Wundbüromann, Fundbüro
+
+*
+
+*
+
+-
+
+*
+
+-
+
+*
+
+*
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
+*
+
+*
+
++ suchen
+
++ suchen
+
+*
+
+-
+
+*
+
+*
+
++ bereit
+
+& Min 15 0: In, Mine, Mini, Main, Ming, Ein, Hin, Bin, Mix, Pin, Mein, Min., Man, Mir, Mit
+
+*
+
+*
+
+*
+
++ rufen
+
+*
+
+*
+
+*
+
+*
+
++ entspannen
+
+-
+
+*
+
++ verloren
+
+*
+
+*
+
+*
+
+*
+
++ klopfen
+
+-
+
+*
+
+*
+
++ bemerkt
+
+*
+
+*
+
+*
+
++ fehlen
+
++ rollen
+
+-
+
+*
+
+*
+
+*
+
+*
+
+& Bogestra 1 0: Gestraft
+
+*
+
+*
+
+& Furzen 5 0: Furzes, Furien, Furten, Kurzen, Fürzen
+
+*
+
+& Happy 1 0: Happyend
+
+& End 7 0: Ende, End-, Eid, Und, Den, Eng, Elend
+
++ merkwürdig
+
+*
+
++ merkwürdig
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ nächste
+
+*
+
+*
+
+*
+
+*
+
++ spät
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Schockierterweise 8 0: Schockreiterweise, Schockiert erweise, Schockiert-erweise, Schockierter weise, Schockierter-weise, Trickreicherweise, Idiotischerweise, Komischerweise
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ ankam
+
+*
+
+& Reingezerrt 4 0: Rein gezerrt, Rein-gezerrt, Eingesperrt, Eingereist
+
+*
+
+*
+
++ enttäuschen
+
+*
+
++ verloren
+
++ ein
+
++ Tag
+
++ entspannen
+
+*
+
+*
+
++ vergisst
+
+*
+
++ winken
+
++ kriegen
+
+*
+
+*
+
+*
+
++ voll
+
+*
+
+*
+
++ vergessen
+
+*
+
+*
+
++ Verkäufer
+
+*
+
++ sitzen
+
+& Rausgingen 7 0: Ausgingen, Raus gingen, Raus-gingen, Vorausging, Ausbringen, Ausgewrungen, Ausgegangen
+
+*
+
+*
+
+*
+
+*
+
++ ein
+
+*
+
+-
+
+*
+
+*
+
++ fehlen
+
+*
+
+& Sowas 4 0: Sodas, Sofas, So was, So-was
+
+& Kanns 10 0: Kanons, Kanne, Kinns, Kants, Kanus, Kahns, Manns, Kann, Kannst, Kansas
+
+& Leckerlis 3 0: Leckerli, Leckerlös, Leckerbissen
+
+*
+
+*
+
+*
+
+-
+
++ süß
+
++ konzentrieren
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ geben
+
+*
+
++ in
+
++ Treppe
+
+*
+
+*
+
+*
+
++ missen
+
+*
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
+*
+
++ jung
+
+*
+
+& Fundbörse 5 0: Funkbörse, Rundbörse, Mundbörse, Wundbörse, Pfundblase
+
++ alt
+
++ vergessen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ hausen
+
+*
+
+-
+
++ Ausstieg
+
++ holen
+
+*
+
+*
+
+-
+
+*
+
++ winken
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ legen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ passen
+
++ aussteigen
+
+*
+
+*
+
++ Karton
+
+& Leas 6 0: Lears, Lear, Beas, Las, Lease, Least
+
++ sitzen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Hergerannt 6 0: Her gerannt, Her-gerannt, Herantrage, Nachgerannt, Angerannt, Eingerannt
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ holen
+
+*
+
++ verabschieden
+
+-
+
+*
+
+*
+
++ fassen
+
+*
+
+*
+
+*
+
++ beide
+
++ bewahren
+
++ kriegen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ lächeln
+
++ bedanken
+
+*
+
++ erschrecken
+
+*
+
++ antworten
+
+-
+
++ merkwürdig
+
+*
+
+*
+
+*
+
++ merken
+
+*
+
++ zeigen
+
+*
+
+-
+
++ winken
+
++ ein
+
+*
+
+*
+
+*
+
+*
+
++ verlieren
+
+-
+
+-
+
++ Treppe
+
+*
+
+*
+
+*
+
++ zeigen
+
++ nächste
+
+& Orangene 10 0: Orangen, Orangen-, Orangenei, Organgene, Oralgene, Urangene, Krangene, Orange, Angeborene, Ergangene
+
++ bedanken
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ verloren
+
+*
+
++ merkwürdig
+
+*
+
++ hältst
+
+*
+
+*
+
++ suchen
+
+& Gelb-Orangener 12 0: Gelb-Orangen er, Gelb-Orangen-er, Gelb-Orangenerz, Gelb-Orangenei, Gelb-Orangeroter, Gelb-Orangefarbener, Gelb-Vorangegangener, Gelb-Ergangener, Vorangegangener, Orangefarbener, Generalsrang, Angeworbener
+
+*
+
+& Hinfällt 5 0: Einfällt, Hinfallt, Hin fällt, Hin-fällt, Hinfällig
+
+*
+
+*
+
+*
+
+*
+
+& Nachhause 4 0: Nach hause, Nach-hause, Nachschaue, Nachschau
+
+*
+
+*
+
+*
+
+& The 5 0: Theo, Tee, Ehe, Tue, These
+
++ stoppen
+
++ schreien
+
++ klopfen
+
+*
+
+*
+
++ entspannen
+
+*
+
++ gelegen
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ kaputt
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ kriegen
+
+-
+
+*
+
+*
+
++ Spiel
+
++ ziehen
+
+*
+
+*
+
+*
+
+*
+
++ kommen
+
++ lösen
+
++ krachen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Nachbar
+
++ kaputt
+
+*
+
+-
+
+-
+
+-
+
++ schicken
+
+-
+
++ fängt
+
++ da
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ Nachbar
+
+*
+
+*
+
+-
+
++ schieben
+
++ wohnen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+& Rübergeschmissen 4 0: Übergeschobenen, Übergeschlagenen, Übergeschlagen, Übergeschoben
+
+*
+
+*
+
+*
+
+*
+
++ dürfen
+
++ bekam
+
+*
+
+*
+
+*
+
++ kriegen
+
++ liegen
+
+*
+
+*
+
+-
+
+*
+
+*
+
+& Mrs 4 0: Mr, Mars, Mus, Ms
+
+-
+
+*
+
+& Wagonwagen 5 0: Wagon wagen, Wagon-wagen, Wagenwagen, Salonwagen, Gewagten
+
+*
+
+*
+
+& Rüber 7 0: Rübe, Über, Rüben, Trüber, Drüber, Verübe, Betrübe
+
+*
+
+*
+
++ binden
+
++ binden
+
+& Spielzeugbahn 2 0: Spielzugbahn, Spiegelblank
+
+& Spielzeugbahn 2 0: Spielzugbahn, Spiegelblank
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Arm
+
+*
+
+*
+
+*
+
+& Rüber 7 0: Rübe, Über, Rüben, Trüber, Drüber, Verübe, Betrübe
+
+*
+
++ wirft
+
+*
+
+*
+
+*
+
++ locker
+
+*
+
+*
+
++ schauen
+
++ zweifeln
+
++ Arm
+
+*
+
++ schön
+
+*
+
++ rollen
+
++ Spannen
+
+-
+
++ wundern
+
+-
+
++ sonnig
+
++ kullern
+
+*
+
+*
+
+*
+
++ Nachbar
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ Nachbar
+
+*
+
+*
+
+*
+
++ holen
+
+*
+
+*
+
+*
+
+*
+
++ verheddern
+
++ stürzen
+
++ kaputt
+
+*
+
++ zerbrochen
+
+*
+
+*
+
+-
+
+& Verlier 10 0: Verlies, Verliere, Verliert, Verlieh, Verlief, Verzier, verließ, Verlierer, Verliebe, Verleiher
+
+*
+
+*
+
+*
+
+*
+
++ erstaunen
+
+*
+
++ zerbrochen
+
+*
+
+*
+
+*
+
++ schieben
+
++ kaputt
+
+& Angeknotet 1 0: Angekettet
+
+-
+
+*
+
+*
+
+*
+
++ klappen
+
+*
+
+*
+
+*
+
++ wirren
+
+*
+
++ liegen
+
+-
+
+*
+
+*
+
++ passieren
+
+*
+
+-
+
++ Freund
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ befestigt
+
+*
+
+& Schups 4 0: Schuss, Schuhs, Schubs, Schuppe
+
+-
+
+*
+
+-
+
+*
+
++ tun
+
+-
+
+*
+
+*
+
+& Teddygondel 1 0: Gondelhandel
+
+-
+
++ knoten
+
+*
+
++ stürzen
+
+-
+
++ wirren
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+-
+
++ passieren
+
++ Nachbar
+
+*
+
++ Nachbar
+
++ zweifeln
+
++ Kind
+
+& Wehgetan 4 0: Weh getan, Weh-getan, Weggetan, Angeweht
+
+*
+
++ passieren
+
++ da
+
++ Teddybär
+
+*
+
+*
+
+*
+
+*
+
++ knoten
+
+*
+
+*
+
+*
+
++ rollen
+
+*
+
+*
+
++ chaotisch
+
++ überraschen
+
+*
+
+*
+
++ kaputt
+
+*
+
+*
+
+& Picknicken 5 0: Packnicken, Dicknicken, Picknick, Einknicken, Pillenknick
+
+*
+
++ Überraschen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ schön
+
++ durfte
+
++ fangen
+
++ schicken
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Reingekracht 6 0: Rein gekracht, Rein-gekracht, Hereingebracht, Eingebracht, Eingereicht, Hingebracht
+
+*
+
++ machen
+
++ erwidern
+
++ nicht
+
++ verdammt
+
++ beruhigen
+
+*
+
+*
+
++ stark
+
++ verloren
+
++ Spannen
+
+*
+
+-
+
+*
+
+*
+
+& Kreppband 3 0: Krepp band, Krepp-band, Krepierend
+
+*
+
++ gucken
+
+*
+
+*
+
++ wacklig
+
+*
+
++ krachen
+
+& Misses 9 0: Risses, Bisses, Misse, Missest, Mieses, Missen, Miss es, Miss-es, Miss
+
++ glücklich
+
+*
+
+*
+
+& Eingekracht 7 0: Eingebracht, Ein gekracht, Ein-gekracht, Eingekocht, Eingemacht, Eingereicht, Hingebracht
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ hören
+
+*
+
+*
+
++ fiel
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kannst
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ passieren
+
+-
+
+-
+
++ zählen
+
+*
+
+& Wär 6 0: Bär, Wäre, Wärt, Wer, Wir, War
+
++ entschuldigt
+
++ setzen
+
+*
+
+*
+
+-
+
+-
+
+*
+
++ zerbrochen
+
++ sagen
+
++ lachen
+
++ Entschuldigen
+
+*
+
+*
+
+*
+
+*
+
++ Bewohner
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
++ knoten
+
+*
+
+*
+
+*
+
+*
+
++ passieren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ suchen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ winken
+
+*
+
+*
+
++ sollen
+
+*
+
++ fliegen
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+& Gewundert 6 0: Bewundert, Gewandert, Gewunden, Verwundert, Wundertätig, Wundert
+
+-
+
+*
+
+& Wagonunfall 2 0: Wagenunfall, Auffahrunfall
+
+*
+
++ flutschen
+
+& Brilliante 3 0: Brillantei, Brillante, Brillant
+
+-
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ holen
+
+*
+
++ jede
+
+*
+
+*
+
+*
+
+*
+
++ Nachbar
+
+*
+
++ Spiel
+
+*
+
+*
+
+*
+
++ knallen
+
+*
+
++ teuer
+
++ einen
+
+*
+
++ entschuldigt
+
+& Rüberzuschieben 4 0: Herauszuschieben, Vorzuschieben, Überschriebenen, Hinauszuschieben
+
++ Entschuldigen
+
+*
+
+*
+
+-
+
+*
+
+-
+
+*
+
++ lösen
+
++ Besitzer
+
+*
+
++ Entschuldigen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ da
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ befestigt
+
+*
+
++ befestigt
+
+*
+
++ beschlossen
+
+*
+
+*
+
+*
+
++ zweifeln
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ schicken
+
+*
+
+*
+
++ waren
+
+*
+
+*
+
+& Reingesetzt 7 0: Eingesetzt, Rein gesetzt, Rein-gesetzt, Freigesetzt, Hingesetzt, Eingestürzt, Eingesegnet
+
+*
+
+*
+
++ durfte
+
+& Teddybärfahrt 3 0: Teddybär fahrt, Teddybär-fahrt, Drüberfahrt
+
+*
+
+*
+
++ lockern
+
++ suchen
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ befestigt
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ wirren
+
+-
+
+*
+
++ Fenster
+
++ dein
+
+*
+
++ tun
+
+*
+
++ überraschen
+
++ da
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ bös
+
+*
+
++ konzentrieren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ in
+
+*
+
+*
+
+-
+
++ Teddybär
+
+*
+
++ stürzen
+
++ kaputt
+
+*
+
+*
+
+*
+
++ ersetzen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ funktionieren
+
++ lösen
+
+*
+
++ Entschuldigen
+
+*
+
++ leben
+
+-
+
++ Nachbar
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ erstaunen
+
+& Rüber 7 0: Rübe, Über, Rüben, Trüber, Drüber, Verübe, Betrübe
+
+*
+
+-
+
++ währen
+
++ lassen
+
+*
+
++ befestigt
+
+*
+
++ Klappe
+
++ Rutsch
+
+-
+
+*
+
++ Scherbe
+
+-
+
+*
+
++ setzen
+
+*
+
++ wohnen
+
+-
+
+*
+
+& Teddybärunfall 1 0: Unfallgefährdet
+
+*
+
+*
+
+*
+
++ stecken
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ enttäuschen
+
++ sagen
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ krachen
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ öffnen
+
++ wickeln
+
+*
+
++ haken
+
+*
+
++ stürzen
+
+*
+
+*
+
++ sausen
+
+*
+
++ Link
+
++ kurz
+
++ öffnen
+
+*
+
+-
+
+-
+
++ Scharnier
+
+& Matinelli 1 0: Matinee
+
+*
+
++ rief
+
+*
+
+& Tweety 1 0: Tweedanzug
+
++ rief
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ packen
+
+*
+
+*
+
+-
+
+*
+
+*
+
++ passieren
+
+*
+
+*
+
++ zersplittern
+
+*
+
+-
+
+*
+
++ da
+
++ kratzen
+
+*
+
++ waren
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ Besitzer
+
++ ausprobieren
+
+*
+
+-
+
++ bemerkt
+
+*
+
+*
+
+-
+
++ morgen
+
+*
+
++ schrecklich
+
+*
+
+*
+
++ kaputt
+
+& Reingesetzt 7 0: Eingesetzt, Rein gesetzt, Rein-gesetzt, Freigesetzt, Hingesetzt, Eingestürzt, Eingesegnet
+
++ lächeln
+
+-
+
+*
+
++ wirren
+
++ enttäuschen
+
++ gefährlich
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ wackeln
+
+*
+
+*
+
+-
+
++ anschließen
+
+*
+
++ Tag
+
+*
+
+*
+
++ da
+
++ Nachbar
+
+*
+
+*
+
+*
+
++ geöffnet
+
+*
+
+*
+
+*
+
++ Wunder
+
+*
+
+& Entdeckerzone 1 0: Entdecker
+
+*
+
++ entschuldigt
+
+*
+
+*
+
++ kleben
+
++ hängen
+
+*
+
++ krachen
+
+*
+
+*
+
+-
+
+& Hm 14 0: He, Im, Am, Cm, Hd, Dm, Um, Mm, Km, Qm, Hz, HP, Ihm, Ohm
+
+*
+
+& Jippie 1 0: Hippie
+
++ wacklig
+
++ wacklig
+
++ gewöhnlich
+
+*
+
+*
+
+-
+
+*
+
++ beängstigen
+
+*
+
+*
+
++ knallen
+
+& Nachbarsfenster 2 0: Nachbarfenster, Nachbarskinder
+
++ splittern
+
+*
+
++ Teddybär
+
++ Teddybär
+
++ Teddybär
+
++ liegen
+
++ verabreden
+
++ Recht
+
++ passieren
+
+*
+
+& Wagonfahrt 4 0: Wagon fahrt, Wagon-fahrt, Wagenfahrt, Davonfahrt
+
++ kaputt
+
++ schön
+
++ knoten
+
++ binden
+
++ beide
+
+*
+
+*
+
++ nächste
+
+*
+
++ Ordnen
+
++ hängen
+
++ holen
+
+-
+
++ klemmen
+
+-
+
++ wirren
+
+*
+
+*
+
++ schmettern
+
++ kam
+
++ befestigt
+
++ befestigt
+
+*
+
+-
+
+& Runterfahren 5 0: Runderfahren, Bunterfahren, -unterfahren, Runter fahren, Runter-fahren
+
+*
+
+*
+
+*
+
++ rumliegen
+
++ veranstalten
+
++ Teddybär
+
++ glücklich
+
++ Scheibe
+
+& Plüschbär 1 0: Plüschtier
+
+*
+
++ rutschen
+
+*
+
+*
+
+*
+
++ übernachten
+
+& Spielzeugwagon 2 0: Spielzugwagon, Spielfreudig
+
++ verletzen
+
+*
+
+*
+
++ kaputtgehen
+
+*
+
+-
+
+*
+
+*
+
+& Umgewickelt 6 0: Um gewickelt, Um-gewickelt, Ausgewickelt, Aufgewickelt, Gewickelt, Umwickelt
+
++ Gondel
+
++ stark
+
++ zerbrochen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ erschrecken
+
++ unkontrolliert
+
+*
+
+*
+
+-
+
+*
+
+-
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ knallen
+
++ kaputt
+
+*
+
++ entschuldigt
+
+*
+
++ fiel
+
+*
+
+-
+
+*
+
+*
+
++ euer
+
+*
+
++ unkontrolliert
+
+& Lena 3 0: Lenz, Jena, Annalen
+
+*
+
+*
+
++ zucken
+
+*
+
+*
+
+*
+
+-
+
+*
+
++ befestigt
+
+-
+
+& Peng 2 0: Eng, Peking
+
++ stark
+
+*
+
+*
+
+-
+
++ Nachbar
+
+& Teddygondel 1 0: Gondelhandel
+
++ spannen
+
++ gespannt
+
+& Knackste 7 0: Knackset, Knacksteg, Knacksee, Knackst, Knackte, Knacks, Nackte
+
++ etwa
+
+*
+
++ spät
+
++ zerdeppern
+
+*
+
++ Mitbewohner
+
++ kurz
+
++ Kind
+
++ enttäuschen
+
+& Ooh 3 0: Oh, Roh, Oho
+
++ waren
+
++ Scheibe
+
+*
+
+*
+
+*
+
++ verabreden
+
+*
+
+*
+
++ stürzen
+
++ schockieren
+
+-
+
++ Wart
+
++ holen
+
+*
+
+-
+
++ stecken
+
++ Nachbar
+
++ kaputt
+
++ schön
+
+& Dadraus 2 0: Daraus, Radau
+
+*
+
+-
+
++ Nachbar
+
++ Nachbar
+
+*
+
+*
+
+*
+
+*
+
++ fängt
+
+& Teddywagen 3 0: Teddy wagen, Teddy-wagen, Teddybären
+
++ passieren
+
+*
+
+*
+
+*
+
++ schließen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ schmeißen
+
+*
+
+*
+
+*
+
++ entschuldigt
+
+*
+
+*
+
+*
+
+*
+
++ schimpfen
+
+*
+
++ spielen
+
++ traf
+
+*
+
++ antworten
+
+*
+
+& Olle 10 0: Alle, Elle, Solle, Rolle, Tolle, Volle, Wolle, Zolle, Jolle, Polle
+
+*
+
++ krachen
+
+*
+
+*
+
++ zweifeln
+
+*
+
++ wacklig
+
+*
+
++ entschuldigt
+
++ sprach
+
+*
+
+-
+
+*
+
++ Ware
+
+*
+
+*
+
++ stellen
+
++ wirren
+
+-
+
++ befestigen
+
++ strecken
+
++ Nachbar
+
+-
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ wackeln
+
+-
+
+*
+
+*
+
++ erschrak
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ strecken
+
++ rutschen
+
++ landen
+
+*
+
++ zerbrochen
+
+*
+
+& Runtergefallen 7 0: -untergefallen, Runter gefallen, Runter-gefallen, Heruntergefallen, Herunterfallen, Heruntergefahren, Herunterfalle
+
++ schimpfen
+
+*
+
++ sonnig
+
+*
+
+*
+
++ verloren
+
++ zerbrochen
+
+-
+
+-
+
+& Saw-Puppe 11 0: San-Puppe, Sao-Puppe, Sau-Puppe, Sam-Puppe, Sa.-Puppe, Was-Puppe, Sag-Puppe, Sah-Puppe, Saß-Puppe, SAS-Puppe, Sexpuppe
+
+-
+
+*
+
+*
+
+*
+
++ passieren
+
+*
+
+*
+
+*
+
+*
+
+-
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
+*
+
++ klein
+
+*
+
++ strecken
+
+*
+
+*
+
+& Shit 3 0: -hit, Seit, Schiit
+
+*
+
+*
+
++ liegen
+
+& End 7 0: Ende, End-, Eid, Und, Den, Eng, Elend
+
+*
+
++ klappen
+
+*
+
+& Happy 1 0: Happyend
+
++ geschickt
+
++ unser
+
+*
+
+-
+
++ lösen
+
+*
+
++ stürzen
+
+*
+
+*
+
+*
+
+*
+
++ währen
+
+*
+
+*
+
+& Tesa 2 0: Test, Teste
+
++ erzählen
+
+*
+
++ öffnen
+
++ freuen
+
+*
+
++ Kreuz
+
+& Ner 11 0: Er, Nero, Nerv, Nerz, Der, Per, Her, New, Wer, Neu, Nur
+
+-
+
+*
+
++ wären
+
+*
+
++ Plakat
+
+*
+
++ Plakat
+
+*
+
++ gehen
+
+*
+
+*
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+*
+
+*
+
+*
+
+& Wau 12 0: Au, Rau, Wal, Lau, Hau, Kau, Sau, Tau, Bau, -au, Was, War
+
++ drehen
+
+*
+
++ Mädchen
+
+*
+
+-
+
++ Geschoss
+
++ bitten
+
+*
+
+*
+
+*
+
++ Neuigkeit
+
+*
+
+*
+
+*
+
+& Lollipop 1 0: Pollinie
+
+*
+
+*
+
++ aß
+
+*
+
++ nächste
+
+& Aufhängte 8 0: Aufhängt, Aufhänge, Auf hängte, Auf-hängte, Aufgehängte, Aufhängen, Aufhänger, Aufgehängt
+
+-
+
+*
+
+-
+
+*
+
++ zurückkehren
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Freudenträne
+
++ geduldig
+
++ Minute
+
++ schauen
+
+*
+
+*
+
++ umarmen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Freudenträne
+
++ Wein
+
+& Ne 10 0: New, Je, De, NS, NT, NL, He, Nie, Neu, Nenne
+
+*
+
+*
+
+& Nachhause 4 0: Nach hause, Nach-hause, Nachschaue, Nachschau
+
+*
+
++ bedrücken
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ schenken
+
+& Lolli 1 0: Rolli
+
++ sonnig
+
++ nicht
+
++ passieren
+
++ verloren
+
+*
+
+*
+
+*
+
+*
+
++ geliebt
+
+& Reingelassen 8 0: Eingelassen, Ringelassen, Rein gelassen, Rein-gelassen, Freigelassenen, Freigelassen, Angelassenen, Hereinlassen
+
+*
+
+*
+
++ Namen
+
+*
+
++ öffnen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Freudenträne
+
+& Durchgeleckt 6 0: Durch geleckt, Durch-geleckt, Durchgestreckt, Durchgeblickt, Durchgedrückt, Durchgelutscht
+
+*
+
+*
+
++ geben
+
+& Lollipop 1 0: Pollinie
+
++ Tipp
+
++ Falle
+
++ bedeuten
+
++ waren
+
++ beenden
+
++ umarmen
+
++ klingeln
+
+& Klingeling 5 0: Klingelring, Klingelding, Klingeln, Klingel, Klingen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ schimpfen
+
+*
+
+*
+
+*
+
++ Fall
+
++ umarmen
+
++ verloren
+
+*
+
+-
+
++ spät
+
+-
+
+*
+
+& Lolli 1 0: Rolli
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ kommen
+
++ Freudenträne
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Fressnäpfchen 2 0: Fresszäpfchen, Fettnäpfchen
+
+*
+
++ suchen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+& Bins 14 0: Bons, Ins, Binse, Beins, Bens, Eins, Biss, Bias, Bits, Pins, Zins, Bind, Bin, Bis
+
+*
+
++ fröhlich
+
++ Freudenträne
+
++ Freudenträne
+
+& Tesastreifen 7 0: Testastreifen, Teeastreifen, Teststreifen, Zebrastreifen, Gazastreifen, Abgestreiften, Abstreifen
+
+*
+
++ jede
+
++ umarmen
+
+-
+
+*
+
+*
+
+*
+
+*
+
+& Lollipop 1 0: Pollinie
+
++ bellen
+
++ verloren
+
++ wären
+
++ antworten
+
+-
+
+*
+
+*
+
++ umarmen
+
+*
+
++ nicht
+
++ passieren
+
++ hören
+
+*
+
+*
+
+*
+
+*
+
++ Freund
+
++ waren
+
+*
+
++ missen
+
+*
+
++ tuten
+
+& Wash 3 0: Was, Wasch, Wach
+
++ bringen
+
+*
+
+*
+
+*
+
++ erinnern
+
+& Retriever 4 0: Reversiere, Vertreter, Vertretener, Vertrieb
+
++ heulen
+
+*
+
+*
+
++ umarmen
+
+& Kreppband 3 0: Krepp band, Krepp-band, Krepierend
+
+*
+
++ beruhigen
+
+*
+
++ sein
+
+*
+
++ finden
+
++ sonnig
+
+*
+
+*
+
++ entsetzen
+
+*
+
++ klingeln
+
++ weinen
+
+*
+
+-
+
+-
+
+*
+
+-
+
+-
+
++ sagen
+
+*
+
++ umarmen
+
+*
+
++ letzte
+
+*
+
+*
+
+*
+
+*
+
++ anrufen
+
+*
+
++ hängen
+
+*
+
+*
+
++ passieren
+
++ Freudenträne
+
++ starren
+
+& Herrchen 6 0: Herzchen, Herrschen, Herrlichen, Herrischen, Herrschern, Herrichten
+
++ schwinden
+
++ kopieren
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ spät
+
+*
+
+*
+
++ danken
+
+*
+
++ Freudenträne
+
+*
+
+*
+
+*
+
++ zurückkommen
+
++ Vermisstenanzeige
+
+*
+
++ hören
+
+*
+
++ waren
+
++ Freud
+
++ fröhlich
+
+*
+
++ läuft
+
++ Bild
+
+*
+
++ hoffen
+
+*
+
+*
+
+& Lolli 1 0: Rolli
+
++ umarmen
+
+& Lolli 1 0: Rolli
+
+*
+
+*
+
+*
+
+*
+
++ viel
+
++ viel
+
+*
+
++ entzücken
+
+-
+
+& Vermisstenzettel 4 0: Vermissten zettel, Vermissten-zettel, Vermisstenanzeige, Vermisstenliste
+
++ kleben
+
+-
+
++ erleichtern
+
++ erleichtern
+
+*
+
++ hängen
+
+*
+
++ glauben
+
+*
+
+*
+
++ hängen
+
++ viel
+
+*
+
+*
+
+*
+
++ danken
+
+*
+
++ all
+
+*
+
+-
+
+*
+
+*
+
++ Falle
+
+*
+
+*
+
+-
+
+*
+
++ anrufen
+
+*
+
++ fällen
+
+*
+
++ emotional
+
+*
+
+*
+
+& Riesenlollipop 1 0: Riesengroß
+
+*
+
+*
+
+*
+
+*
+
+& Jippie 1 0: Hippie
+
++ nicht
+
+*
+
+*
+
+*
+
+& Spazierengehen 8 0: Spaziereingehen, Spazierendgehen, Spaziergengehen, Spazieren gehen, Spazieren-gehen, Hereinspazieren, Hereinspaziere, Hereingesprungen
+
+*
+
++ begrüßen
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Besitzer
+
+-
+
++ missen
+
++ lehnen
+
+*
+
+*
+
+& Na 7 0: Ja, Da, NS, NT, NL, Nah, An
+
++ denken
+
++ Freudenträne
+
+*
+
+*
+
+*
+
++ tanzen
+
++ geduldig
+
++ passieren
+
+& Lollipop 1 0: Pollinie
+
++ tränen
+
+*
+
+-
+
+*
+
+& Lieblingsfressen 6 0: Lieblings fressen, Lieblings-fressen, Lieblingsfressern, Lieblingsfressren, Lieblingsfressgen, Lieblingsspeise
+
+*
+
+*
+
+*
+
++ ersehnen
+
+*
+
+*
+
+*
+
+& Missing-Plakate 4 0: Messing-Plakate, Mitsing-Plakate, Eissing-Plakate, Missgelaunte
+
+-
+
+*
+
+& Missing-Poster 4 0: Messing-Poster, Mitsing-Poster, Eissing-Poster, Missionierter
+
+*
+
++ Ratte
+
+*
+
+-
+
++ einen
+
+*
+
+*
+
+*
+
+*
+
++ bringen
+
++ wirren
+
++ Freud
+
+*
+
+*
+
++ stürmen
+
+*
+
++ halb
+
+# Erdbeerlollipop 0
+
+& Vermisstenzettel 4 0: Vermissten zettel, Vermissten-zettel, Vermisstenanzeige, Vermisstenliste
+
+*
+
++ sagen
+
++ schellen
+
+& Dingdong 1 0: Davonging
+
+& Lollipop 1 0: Pollinie
+
+*
+
+*
+
++ rufen
+
++ Rat
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+-
+
+*
+
+& Gelächelt 5 0: Belächelt, Angelächelt, Gelächter, Lächelt, Getätschelt
+
+*
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
++ schlecht
+
+*
+
++ weinen
+
+*
+
+*
+
+& Kuckt 6 0: Juckt, Duckt, Guckt, Zuckt, Kickt, Kuckuck
+
+*
+
+*
+
+*
+
++ Plakat
+
+-
+
+-
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+& Wuffwuff 1 0: Aufwurf
+
+*
+
++ schrecklich
+
++ Plakat
+
+*
+
++ tun
+
+*
+
+*
+
+-
+
+*
+
+*
+
+*
+
++ anschließen
+
+*
+
++ morgen
+
+*
+
+*
+
+& Bye 3 0: Byte, Bde, Böe
+
+-
+
+*
+
+-
+
+& Bye 3 0: Byte, Bde, Böe
+
++ Überraschen
+
++ stürzen
+
++ verschwunden
+
+& Lutscher 7 0: Kutscher, Lutsche, Lutschen, Lutherischer, Lutherisch, Deutscher, Verrutsche
+
+*
+
+*
+
+& Hundebellen 14 0: Hunde bellen, Hunde-bellen, Hundeellen, Hundebeilen, Hundeballen, Hundedellen, Hundebeulen, Hundebullen, Hundefellen, Hundekellen, Hundewellen, Hundezellen, Hundebällen, Belehrenden
+
+*
+
+*
+
+*
+
+& Hmm 3 0: Mm, Qmm, Ihm
+
+*
+
+*
+
+& Lolli 1 0: Rolli
+
+*
+
++ Plakat
+
+*
+
++ stürzen
+
+*
+
++ Katz
+
+-
+
+*
+
+*
+
+*
+
++ Plakat
+
++ Wein
+
++ spät
+
+*
+
++ entdecken
+
+& Wegzuschmeißen 9 0: Weg zuschmeißen, Weg-zuschmeißen, Wegtuschmeißen, Wegduschmeißen, Wegbuschmeißen, Wegschmeißen, Hinzuschmeißen, Zuschmeißen, Zusammenschweißen
+
++ erzählen
+
+*
+
+*
+
++ Plakat
+
++ lächeln
+
+& Trauertränen 10 0: Trauer tränen, Trauer-tränen, Trauertränken, Trauertränen-, Trauertranen, Trauerkränen, Vertrauerten, Getrauerten, Urvertrauen, Anzuvertrauen
+
++ Ware
+
++ heulen
+
+*
+
+-
+
+*
+
+*
+
++ bezahlen
+
+*
+
++ Freudenträne
+
+*
+
+*
+
++ Blick
+
+*
+
++ freuen
+
+*
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
++ Sorge
+
+& Lolli 1 0: Rolli
+
++ Freudenträne
+
+*
+
+-
+
+*
+
++ stehen
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ Abend
+
++ weinen
+
+*
+
+*
+
++ antworten
+
++ schlimm
+
+*
+
+*
+
+*
+
+& Hundeleckerlis 3 0: Hundeleckerli, Hundeleckerlös, Wunderlichkeit
+
++ umarmen
+
+& Leckerchen 10 0: Leckrechen, Lecklerchen, Leckeschen, Leckeichen, Leckarchen, Leckelchen, Leckeren, Erklecklichen, Lerchen, Schlecken
+
+& Lollipop 1 0: Pollinie
+
++ schlimm
+
+& Vermisstplakaten 2 0: Vermisstenlisten, Vermisstenliste
+
++ kein
+
+*
+
+*
+
++ weit
+
++ klingeln
+
++ steigen
+
+-
+
++ missen
+
+-
+
++ weinen
+
+*
+
++ lächeln
+
+*
+
+*
+
+*
+
+*
+
++ Plakat
+
+*
+
++ Freudenträne
+
+-
+
+-
+
++ Bild
+
++ blenden
+
++ sieht
+
+*
+
++ fünft
+
+*
+
+*
+
+*
+
+& Vermisstenblätter 3 0: Vermissten blätter, Vermissten-blätter, Vermisstenliste
+
++ teilen
+
+*
+
+*
+
++ warten
+
+*
+
+-
+
+*
+
+-
+
+*
+
+*
+
++ telefonieren
+
++ andere
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ groß
+
++ umarmen
+
+& Selbstgemachte 5 0: Selbst gemachte, Selbst-gemachte, Selbstgerechte, Selbstgerecht, Festgemachte
+
+*
+
++ sagen
+
+*
+
+*
+
+*
+
+*
+
+-
+
+-
+
+*
+
+*
+
+*
+
+*
+
++ umarmen
+
+-
+
+*
+
+& Wuff 3 0: Wurf, Tuff, Puff
+
+& Klingelts 4 0: Klingelst, Klingelt, Klingelte, Klingel
+
++ Freudenträne
+
+*
+
+*
+
++ Überraschen
+
+-
+
++ Katz
+
+*
+
++ umarmen
+
+*
+
++ lächeln
+
+*
+
+*
+
+*
+
+*
+
+& -Mal 14 5: -mal, Mal, -aal, -ral, -tal, -wal, -mahl, mal, -mail, -maul, -malz, -alm, -mai, -mol
+
++ Vermisstenanzeige
+
++ Freudenträne
+
+*
+
++ drücken
+
+*
+
+& Selbstgemalte 4 0: Selbstgehalte, Selbst gemalte, Selbst-gemalte, Selbstgenügsame
+
+*
+
++ telefonieren
+
++ schellen
+
+*
+
+& Kuck 6 0: Guck, Zuck, Ruck, Kick, Keck, Kuckuck
+
+-
+
+*
+
+*
+
++ Falle
+
++ Freudenträne
+
++ sonnig
+
+*
+
+*
+
++ kopieren
+
++ Kreuz
+
++ klingeln
+
+*
+
+*
+
+*
+
+*
+
++ umarmen
+
+-
+
++ viel
+
++ spielen
+
+*
+
+*
+
++ erleichtern
+
++ klingeln
+
++ drücken
+
+*
+
+*
+
+*
+
++ bemerkt
+
++ hängen
+
+& Kuckte 6 0: Juckte, Duckte, Guckte, Zuckte, Kickte, Kuckuck
+
++ bedanken
+
+& Lolli 1 0: Rolli
+
+& Stöckchen 3 0: Stückchen, Stöcken, Störchen
+
++ Bild
+
+*
+
+*
+
+*
+
+*
+
+& Aufzumuntern 3 0: Aufmuntern, Aufzuheitern, Aufgemuntert
+
+*
+
+*
+
+*
+
+*
+
+*
+
++ nutzen
+
+*
+
