@@ -1,0 +1,4 @@
+Link to childLex
+http://alpha.dlexdb.de/pages/help/dbs/childlex/
+
+We utilized version 0.17.01
